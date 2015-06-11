@@ -1,0 +1,107 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font: 300 15px 'Play', sans-serif;
+}
+.clearfix:after {
+  visibility: hidden;
+  display: block;
+  font-size: 0;
+  content: " ";
+  clear: both;
+  height: 0;
+}
+.clearfix { display: inline-block; }
+* html .clearfix { height: 1%; }
+.clearfix { display: block; }
+
+a {
+  color: #00ABFF;
+}
+a:visited {
+  color: #6CB7DB;
+}
+h2, h3, h4 {
+  margin-bottom: 15px;
+}
+h2 {
+  font-size: 25px;
+}
+h3 {
+  font-size: 23px;
+}
+ul {
+  list-style: none;
+  margin-bottom: 20px;
+}
+ul li {
+  margin-bottom: 10px;
+}
+.bulleted {
+  padding: 0 0 0 20px;
+}
+.bulleted li {
+  list-style-type: disc;
+  list-style-position: outside;
+  padding: 0;
+}
+hr {
+  border: none;
+  border-top: 1px solid #ccc;
+  height: 1px;
+}
+p {
+  margin-bottom: 15px;
+}
+.text-center {
+  text-align: center;
+}
+.wrapper {
+  text-align: left;
+  width: 500px;
+  margin: 0 auto;
+}
+.wrapper .artwork {
+  margin-bottom: 20px;
+  width: 100%;
+}
+.main-header {
+  margin-bottom: 20px;
+}
+.main-header .stripe h1 {
+  margin: 0;
+  color: #fff;
+  font-size: 35px;
+}
+.main-header .stripe h1 a {
+  color: #fff;
+  text-decoration: none;
+}
+.main-header .stripe {
+  background: #00ADEF;
+  width: 100%;
+  padding: 10px 0;
+  margin-bottom: 20px;
+}
+.main-header .description {
+  text-align: center;
+  color: #999;
+  font-size: 13px;
+}
+.col-6 {
+  width: 50%;
+  float: left;
+  padding-right: 5%;
+}
+.main-footer {
+  margin: 30px auto;
+}
+.callout {
+  padding: 20px;
+  border-radius: 20px;
+  border: 1px solid #ccc;
+}
+.callout p:last-child {
+  margin-bottom: 0;
+}
