@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
+    <channel>
+        <link>http://techlifepodcast.com/</link>
+        <language>ru</language>
+        <copyright>&#xA9;2015</copyright>
+        <webMaster>talk@techlifepodcast.com (Vasily Myazin and Dmitri Zdorov)</webMaster>
+        <managingEditor>talk@techlifepodcast.com (Vasily Myazin and Dmitri Zdorov)</managingEditor>
+        <image>
+            <url>http://techlifepodcast.com/img/techlife-artwork-300x300.jpg</url>
+            <title>Технологии и жизнь - подкаст</title>
+            <link>http://techlifepodcast.com/</link>
+        </image>
+        <itunes:owner>
+            <itunes:name>Vasily Myazin and Dmitri Zdorov</itunes:name>
+            <itunes:email>talk@techlifepodcast.com</itunes:email>
+        </itunes:owner>
+        <itunes:category text="Technology">
+            <itunes:category text="Gadgets" />
+        </itunes:category>
+        <itunes:keywords>technology, podcast, russian, apple, google</itunes:keywords>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:image href="http://techlifepodcast.com/img/techlife-artwork-300x300.jpg" />
+        <atom:link href="http://techlifepodcast.com/podcast-feed.xml" rel="self" type="application/rss+xml" />
+        <pubDate>Sun, 01 Jan 2012 00:00:00 EST</pubDate>
+        <title>Технологии и жизнь</title>
+        <itunes:author>Techlife Syndicate</itunes:author>
+        <description>Интернет радио-программа про современные технологии, их влияние на нашу жизнь, и прочие мысли. Ведущие: Дмитрий Здóров и Василий Мязин.</description>
+        <itunes:summary>Интернет радио-программа про современные технологии, их влияние на нашу жизнь, и прочие мысли.</itunes:summary>
+        <itunes:subtitle>Ведущие: Дмитрий Здóров и Василий Мязин.</itunes:subtitle>
+        <lastBuildDate>Sun, 25 May 2015 00:00:00 EST</lastBuildDate>
+        <item>
+            <title>#06: Новый Макбук Про и сила нажатия.</title>
+            <description>Болтаем про всякие вещи.</description>
+            <itunes:summary>Болтаем про всякие вещи.</itunes:summary>
+            <itunes:subtitle>Болтаем про всякие вещи.</itunes:subtitle>
+            <itunesu:category itunesu:code="112" />
+            <enclosure url="http://techlifepodcast.com/Episodes/Techlife-2015-05-01.mp3" type="audio/mpeg" length="1" />
+            <guid>http://techlifepodcast.com/Episodes/Techlife-2015-05-01.mp3</guid>
+            <itunes:duration>H:MM:SS</itunes:duration>
+            <pubDate>Sun, 1
+               May 2012 17:06:16 EST</pubDate>
+        </item>
+        <item>
+            <title>#05: Про монополию Гугла в рекламе и снова про Apple Watch.</title>
+            <description>Болтаем про всякие вещи.</description>
+            <itunes:summary>Болтаем про всякие вещи.</itunes:summary>
+            <itunes:subtitle>Болтаем про всякие вещи.</itunes:subtitle>
+            <itunesu:category itunesu:code="112" />
+            <enclosure url="http://techlifepodcast.com/Episodes/Techlife-2015-04-19.mp3" type="audio/mpeg" length="1" />
+            <guid>http://techlifepodcast.com/Episodes/Techlife-2015-04-19.mp3</guid>
+            <itunes:duration>H:MM:SS</itunes:duration>
+            <pubDate>Sun, 19 Apr 2012 17:06:16 EST</pubDate>
+        </item>
+        <item>
+            <title>#04: Музыкальные стриминг-сервисы, батареи и родные приложения для смартрфонов</title>
+            <description>Присылайте ваши отзывы и предложения на электронку: talk@techlifepodcast.com</description>
+            <itunes:summary>Болтаем про всякие вещи.</itunes:summary>
+            <itunes:subtitle>Болтаем про всякие вещи.</itunes:subtitle>
+            <itunesu:category itunesu:code="112" />
+            <enclosure url="http://techlifepodcast.com/Episodes/Techlife-2015-04-05.mp3" type="audio/mpeg" length="1" />
+            <guid>http://techlifepodcast.com/Episodes/Techlife-2015-04-05.mp3</guid>
+            <itunes:duration>H:MM:SS</itunes:duration>
+            <pubDate>Sun, 5 Apr 2012 17:06:16 EST</pubDate>
+        </item>
+        <item>
+            <title>#03: Ведущие встретились в Калифорнии поговорить об Apple Watch.&#8986;.</title>
+            <description>Болтаем про всякие вещи.</description>
+            <itunes:summary>Болтаем про всякие вещи.</itunes:summary>
+            <itunes:subtitle>Болтаем про всякие вещи.</itunes:subtitle>
+            <itunesu:category itunesu:code="112" />
+            <enclosure url="http://techlifepodcast.com/Episodes/Techlife-2015-03-29.mp3" type="audio/mpeg" length="1" />
+            <guid>http://techlifepodcast.com/Episodes/Techlife-2015-03-29.mp3</guid>
+            <itunes:duration>H:MM:SS</itunes:duration>
+            <pubDate>Sun, 29 Mar 2012 17:06:16 EST</pubDate>
+        </item>
+        <item>
+            <title>#02: USB-C и кибер-шпионаж.</title>
+            <description>Болтаем про всякие вещи.</description>
+            <itunes:summary>Болтаем про всякие вещи.</itunes:summary>
+            <itunes:subtitle>Болтаем про всякие вещи.</itunes:subtitle>
+            <itunesu:category itunesu:code="112" />
+            <enclosure url="http://techlifepodcast.com/Episodes/Techlife-2015-03-22.mp3" type="audio/mpeg" length="1" />
+            <guid>http://techlifepodcast.com/Episodes/Techlife-2015-03-22.mp3</guid>
+            <itunes:duration>H:MM:SS</itunes:duration>
+            <pubDate>Sun, 22 Mar 2012 17:06:16 EST</pubDate>
+        </item>
+        <item>
+            <title>#01: Падение Apple или помогут ли гику умные часы найти секс.</title>
+            <description>Болтаем про всякие вещи.</description>
+            <itunes:summary>Болтаем про всякие вещи.</itunes:summary>
+            <itunes:subtitle>Болтаем про всякие вещи.</itunes:subtitle>
+            <itunesu:category itunesu:code="112" />
+            <enclosure url="http://techlifepodcast.com/Episodes/Techlife-2015-03-15.mp3" type="audio/mpeg" length="1" />
+            <guid>http://techlifepodcast.com/Episodes/Techlife-2015-03-15.mp3</guid>
+            <itunes:duration>H:MM:SS</itunes:duration>
+            <pubDate>Sun, 15 Mar 2012 17:06:16 EST</pubDate>
+        </item>
+    </channel>
+</rss>
