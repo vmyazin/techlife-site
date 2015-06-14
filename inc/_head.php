@@ -10,7 +10,7 @@
 ?>
 
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" ng-app="techlifeApp">
 
   <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
@@ -22,6 +22,13 @@
 
   	<link rel="stylesheet" href="css/reset.css" media="screen" type='text/css' charset="utf-8">
   	<link rel="stylesheet" href="css/styles.css" media="screen" type='text/css' charset="utf-8">
+
+    <script src="//cdnjs.cloudflare.com/ajax/libs/underscore.js/1.8.3/underscore-min.js"></script>
+    <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.3.14/angular.min.js"></script>
+    <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.3.14/angular-route.min.js"></script>
+    <script src="//code.jquery.com/jquery-2.1.4.min.js"></script>
+    <script src="js/sitedata.js"></script>
+    <script src="js/app.js"></script>
 
   </head>
 

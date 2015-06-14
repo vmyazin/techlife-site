@@ -1,0 +1,19 @@
+<div ng-controller="TechlifeCtrl">
+
+  <div class="wrapper">
+    <div class="col-6">
+      <img class="artwork" src="img/tl-logo.jpg" alt="Techlife Podcast logo" />
+      <p>
+        Почта: <a href="mailto:talk@techlifepodcast.com">talk@techlifepodcast.com</a>
+      </p>
+    </div>
+    <div class="col-6">
+      <h3>Слушать эпизоды</h3>
+      <ul>
+          <li ng-repeat="episode in episodes | reverse">№{{episodes.length - $index}} <a href="#/episodes/{{episode.id}}">{{episode.title}}</a></li>
+      </ul>
+    </div>
+
+  </div>
+
+</div>

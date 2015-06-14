@@ -1,0 +1,13 @@
+<div class="wrapper" ng-controller="EpisodeCtrl">
+  <h4>Ссылки к эпизоду №{{episode.id}} от {{episode.dateLang}} года</h4>
+  <h3>{{episode.title}}</h3>
+  <div ng-include src="getTemplateUrl(episode.id)"></div>
+  <p>
+    Пишите нам! <a href="mailto:talk@techlifepodcast.com">talk@techlifepodcast.com</a>
+  </p>
+  <div class="callout">
+    <p>
+      <a href="{{episode.file}}">Скачать MP3-файл эпизода №{{episode.id}}</a>
+    </p>
+  </div>
+</div>
