@@ -25,7 +25,7 @@
   	<link rel="stylesheet" href="<?php echo $base_url; ?>css/reset.css" media="screen" type='text/css' charset="utf-8">
   	<link rel="stylesheet" href="<?php echo $base_url; ?>css/styles.css" media="screen" type='text/css' charset="utf-8">
 
-    <base href="/techlife-site/">
+    <base href="/">
 
     <script src="//cdnjs.cloudflare.com/ajax/libs/underscore.js/1.8.3/underscore-min.js"></script>
     <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.3.14/angular.min.js"></script>
