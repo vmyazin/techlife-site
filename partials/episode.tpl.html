@@ -1,13 +1,15 @@
 <div class="wrapper" ng-controller="EpisodeCtrl">
   <h4>Ссылки к эпизоду №{{episode.id}} от {{episode.dateLang}} года</h4>
   <h3>{{episode.title}}</h3>
+  <div class="callout" ng-controller="PlayerCtrl" ng-init="launch(episode)">
+    <p>
+      <control class="sm2-play" ng-click="play(episode)" ng-hide="isPlaying(episode)">&#9654;</control>
+      <control class="sm2-stop" ng-click="stop()" ng-show="isPlaying(episode)">&#9613;&#9613;</control>
+      <a href="{{episode.file}}">Скачать MP3-файл эпизода №{{episode.id}}</a>
+    </p>
+  </div>
   <div ng-include src="getTemplateUrl(episode.id)"></div>
   <p>
     Пишите нам! <a href="mailto:talk@techlifepodcast.com">talk@techlifepodcast.com</a>
   </p>
-  <div class="callout">
-    <p>
-      <a href="{{episode.file}}">Скачать MP3-файл эпизода №{{episode.id}}</a>
-    </p>
-  </div>
 </div>

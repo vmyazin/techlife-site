@@ -6,5 +6,10 @@
       </div>
     </div>
   </footer>
+
+  <div ng-controller="EpisodeCtrl">
+    <?php include('inc/_player.php'); ?>
+  </div>
+
 </body>
 </html>

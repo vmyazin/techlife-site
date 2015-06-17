@@ -1,7 +1,7 @@
 <header class="main-header">
   <div class="stripe">
     <div class="wrapper">
-      <h1 class="text-center"><a href="/">Технологии и жизнь</a></h1>
+      <h1 class="text-center"><a href="<?php echo $base_url; ?>">Технологии и жизнь</a></h1>
     </div>
   </div>
   <div class="wrapper description">

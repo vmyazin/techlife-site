@@ -104,7 +104,28 @@ p {
   padding: 20px;
   border-radius: 20px;
   border: 1px solid #ccc;
+  margin-bottom: 20px;
 }
 .callout p:last-child {
   margin-bottom: 0;
+}
+control {
+  color: #00ABFF;
+  cursor: pointer;
+  font-weight: 700;
+}
+.sm2-stop {
+  letter-spacing: -6px;
+}
+.player {
+  height: 50px;
+  position: fixed;
+  background: #00ADEF;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding: 10px;
+}
+.player control {
+  color: #fff;
 }
