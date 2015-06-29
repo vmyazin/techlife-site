@@ -3,8 +3,10 @@
   <h3>{{episode.title}}</h3>
   <div class="callout" ng-controller="PlayerCtrl" ng-init="launch(episode)">
     <p>
+      Слушать 
       <control class="sm2-play" ng-click="play(episode)" ng-hide="isPlaying(episode)">&#9654;</control>
       <control class="sm2-stop" ng-click="stop()" ng-show="isPlaying(episode)">&#9613;&#9613;</control>
+      |
       <a href="{{episode.file}}">Скачать MP3-файл эпизода №{{episode.id}}</a>
     </p>
   </div>
