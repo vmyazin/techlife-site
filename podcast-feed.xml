@@ -20,7 +20,7 @@
         </itunes:category>
         <itunes:keywords>technology, podcast, russian, apple, google</itunes:keywords>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:image href="http://techlifepodcast.com/img/techlife-artwork-1024x1024.jpg" />
+        <itunes:image href="http://techlifepodcast.com/img/techlife-artwork-1400x1400.jpg" />
         <atom:link href="http://techlifepodcast.com/podcast-feed.xml" rel="self" type="application/rss+xml" />
         <pubDate>Sun, 01 Jan 2012 00:00:00 EST</pubDate>
         <title>Технологии и жизнь</title>
