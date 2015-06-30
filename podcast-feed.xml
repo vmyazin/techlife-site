@@ -34,10 +34,24 @@
             <description>Болтаем про всякие вещи.</description>
             <itunes:summary>Болтаем про всякие вещи.</itunes:summary>
             <itunes:subtitle>Болтаем про всякие вещи.</itunes:subtitle>
+            <content:encoded>
+              &lt;ul&gt;
+  &lt;li&gt;Недавно закрывшийся новостной стартап Circa &lt;a href=&quot;https://circanews.com/&quot;&gt;circanews.com&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Саундтрекинг, который запоминал какую музыку слушал в течение дня &lt;a href=&quot;https://soundtracking.com/trending&quot;&gt;soundtracking.com/trending&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;о Гугл Баз &lt;a href=&quot;https://ru.wikipedia.org/wiki/Google_Buzz&quot;&gt;ru.wikipedia.org/wiki/Google_Buzz&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Cтив Джобс о том, что фокус это говорить &quot;нет&quot; &lt;a href=&quot;https://www.youtube.com/watch?v=6pTv_DJNfTg&quot;&gt;youtube.com/watch?v=6pTv_DJNfTg&lt;/a&gt;&lt;br /&gt; и его высказывание о смерти:&lt;br /&gt;
+&lt;i&gt;Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose. You are already naked. There is no reason not to follow your heart.&lt;/i&gt;
+&lt;/li&gt;
+  &lt;li&gt;App.net который ещё теплится &lt;a href=&quot;https://alpha.app.net/dimka&quot;&gt;alpha.app.net/dimka&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Фильм In Time (2011) &lt;a href=&quot;http://www.imdb.com/title/tt1637688/&quot;&gt;imdb.com/title/tt1637688&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Открытое письмо Тейлор Свифт &lt;a href=&quot;http://taylorswift.tumblr.com/post/122071902085/to-apple-love-taylor&quot;&gt;taylorswift.tumblr.com/post/122071902085/to-apple-love-taylor&lt;/a&gt; и реакция на это Эдди Кью из Эппл &lt;a href=&quot;http://recode.net/2015/06/21/apple-says-it-will-pay-taylor-swift-for-free-streams-after-all/&quot;&gt;recode.net/2015/06/21/apple-says-it-will-pay-taylor-swift-for-free-streams-after-all&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+            </content:encoded>
             <itunesu:category itunesu:code="112" />
             <enclosure url="http://techlifepodcast.com/Episodes/Techlife-2015-06-27.mp3" type="audio/mpeg" length="1" />
             <guid>http://techlifepodcast.com/Episodes/Techlife-2015-06-27.mp3</guid>
             <itunes:duration>H:MM:SS</itunes:duration>
+            <itunes:explicit>clean</itunes:explicit>
             <pubDate>Sun, 28 June 2015 17:06:16 EST</pubDate>
         </item>
         <item>
