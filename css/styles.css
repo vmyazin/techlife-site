@@ -84,6 +84,7 @@ p {
   margin: 0;
   color: #fff;
   font-size: 35px;
+  line-height: 1;
 }
 .main-header .stripe h1 a {
   color: #fff;
@@ -139,11 +140,13 @@ control {
   margin-bottom: 20px;
   transition: all .1s ease-in-out;
 }
-.episode-player control:hover {
-  background: #00ADEF;
-  color: #fff;
-  border-color: #095B7B;
-  transition: all .1s ease-in-out;
+@media (min-width: 1025px) {
+  .episode-player control:hover {
+    background: #00ADEF;
+    color: #fff;
+    border-color: #095B7B;
+    transition: all .1s ease-in-out;
+  }
 }
 .episode-player control:active {
   border-bottom-width: 2px;
@@ -182,6 +185,7 @@ control {
 .episode-info h3 {
   font-size: 40px;
   line-height: 1;
+  margin-bottom: 40px;
 }
 @media (max-width: 400px) {
   .episode-info h3 {
