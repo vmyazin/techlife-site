@@ -28,8 +28,7 @@
     <link rel="stylesheet" href="<?php echo $base_url; ?>css/skeleton.css" media="screen" type='text/css' charset="utf-8">
     <link rel="stylesheet" href="<?php echo $base_url; ?>css/styles.css" media="screen" type='text/css' charset="utf-8">
 
-    <base href="/">
-    <!-- <base href="/techlife-site/"> -->
+    <link rel="shortcut icon" href="img/favicon.ico">
 
     <script src="//cdnjs.cloudflare.com/ajax/libs/underscore.js/1.8.3/underscore-min.js"></script>
     <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.3.14/angular.min.js"></script>
@@ -38,6 +37,9 @@
     <script src="<?php echo $base_url; ?>js/vendor/soundmanager2-jsmin.js"></script>
     <script src="<?php echo $base_url; ?>js/sitedata.js"></script>
     <script src="<?php echo $base_url; ?>js/app.js"></script>
+
+    <base href="/">
+    <!-- <base href="/techlife-site/"> -->
 
   </head>
 
