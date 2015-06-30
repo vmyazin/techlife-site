@@ -20,12 +20,14 @@
 
     <title><?php echo $page_title ?></title>
 
-  	<link href='http://fonts.googleapis.com/css?family=Play&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Play&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
 
-  	<link rel="stylesheet" href="<?php echo $base_url; ?>css/reset.css" media="screen" type='text/css' charset="utf-8">
-  	<link rel="stylesheet" href="<?php echo $base_url; ?>css/styles.css" media="screen" type='text/css' charset="utf-8">
+    <link rel="stylesheet" href="<?php echo $base_url; ?>css/reset.css" media="screen" type='text/css' charset="utf-8">
+    <link rel="stylesheet" href="<?php echo $base_url; ?>css/skeleton.css" media="screen" type='text/css' charset="utf-8">
+    <link rel="stylesheet" href="<?php echo $base_url; ?>css/styles.css" media="screen" type='text/css' charset="utf-8">
 
     <base href="/">
+    <!-- <base href="/techlife-site/"> -->
 
     <script src="//cdnjs.cloudflare.com/ajax/libs/underscore.js/1.8.3/underscore-min.js"></script>
     <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.3.14/angular.min.js"></script>
