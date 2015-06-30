@@ -192,3 +192,6 @@ control {
     font-size: 30px;
   }
 }
+.episode-info li a {
+  word-break: break-all;
+}
