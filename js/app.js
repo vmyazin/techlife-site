@@ -100,10 +100,11 @@ soundManager.setup({
 var LoadFile = function (fileName) {
   Player.load({
     id: 'episodeAudio',
-    url: fileName
+    url: fileName,
   });
 }
 
+var curPos;
 var InitPlayer = function (episode, callback) {
   window.currentEpisode = episode;
   if (typeof Player !== 'undefined') soundManager.destroySound('episodeAudio');
@@ -115,6 +116,28 @@ var InitPlayer = function (episode, callback) {
     onload: function() {
       if (_.isFunction(callback)) callback()
     },
-    volume: 80
+    volume: 60,
+    whileplaying: function() {
+      curPos = convertMillisecondsToDigitalClock(parseInt(this.position));
+      $('.current-position').text(pad(curPos.minutes, 2) + ':' + pad(curPos.seconds, 2));
+    }
   });
+}
+
+function convertMillisecondsToDigitalClock(ms) {
+    hours = Math.floor(ms / 3600000), // 1 Hour = 36000 Milliseconds
+    minutes = Math.floor((ms % 3600000) / 60000), // 1 Minutes = 60000 Milliseconds
+    seconds = Math.floor(((ms % 360000) % 60000) / 1000) // 1 Second = 1000 Milliseconds
+    return {
+        hours : hours,
+        minutes : minutes,
+        seconds : seconds,
+        clock : hours + ":" + minutes + ":" + seconds
+    };
+}
+
+function pad(num, size) {
+    var s = num+"";
+    while (s.length < size) s = "0" + s;
+    return s;
 }
