@@ -20,6 +20,8 @@
 
     <title><?php echo $page_title ?></title>
 
+    <meta content='width=device-width, maximum-scale=1.0, minimum-scale=1.0, initial-scale=1.0' name='viewport'>
+
     <link href='http://fonts.googleapis.com/css?family=Play&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
 
     <link rel="stylesheet" href="<?php echo $base_url; ?>css/reset.css" media="screen" type='text/css' charset="utf-8">
