@@ -170,12 +170,18 @@ control {
   bottom: 0;
   left: 0;
   right: 0;
-  padding: 10px;
+  padding: 10px 10px 10px 40px;
 }
 .player control {
   color: #fff;
-  padding: 10px;
+  padding: 10px 10px 10px 20px;
   margin: 0 -10px;
+  position: absolute;
+  left: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 1;
 }
 .player control .control-icon {
   width: 28px;
