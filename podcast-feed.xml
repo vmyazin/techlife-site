@@ -28,7 +28,19 @@
         <description>Интернет радио-программа про современные технологии, их влияние на нашу жизнь, и прочие мысли. Ведущие: Дмитрий Здóров и Василий Мязин.</description>
         <itunes:summary>Интернет радио-программа про современные технологии, их влияние на нашу жизнь, и прочие мысли.</itunes:summary>
         <itunes:subtitle>Ведущие: Дмитрий Здоров и Василий Мязин.</itunes:subtitle>
-        <lastBuildDate>Sun, 12 July 2015 00:00:00 EST</lastBuildDate>
+        <lastBuildDate>Mon, 27 July 2015 00:00:00 EST</lastBuildDate>
+        <item>
+            <title>#12: Знакомство с Плутоном и успехи тек-компаний</title>
+            <description>В этом эпизоде ведущие обсудили недопланету Плутон, приоритеты Эппл и Микрософт, новый Айпод Тач.</description>
+            <itunes:summary>В этом эпизоде ведущие обсудили недопланету Плутон, приоритеты Эппл и Микрософт, новый Айпод Тач.</itunes:summary>
+            <itunes:subtitle>Болтаем про всякие вещи.</itunes:subtitle>
+            <itunesu:category itunesu:code="112" />
+            <enclosure url="http://techlifepodcast.com/Episodes/Techlife-2015-07-22.mp3" type="audio/mpeg" length="1" />
+            <guid>http://techlifepodcast.com/Episodes/Techlife-2015-07-22.mp3</guid>
+            <itunes:duration>H:MM:SS</itunes:duration>
+            <itunes:explicit>clean</itunes:explicit>
+            <pubDate>Wed, 22 July 2015 23:06:16 EST</pubDate>
+        </item>
         <item>
             <title>#11: Майкрософт съел Нокию, а Терминатор вернулся</title>
             <description>В этом эпизоде ведущие обсудили судьбу Нокии в руках Майкрософт, онлайн-карты, а также выход новго фильма про Терминатора. Дима и Вася также коснулись темы реалистичности кинофильмов и почему режиссеры так халатно относятся к фактам.</description>

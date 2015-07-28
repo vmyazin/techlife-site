@@ -10,5 +10,6 @@ siteData.episodes = [
   {id: 8, title: 'Про искусственный интеллект в кино.', file: 'Episodes/Techlife-2015-05-31.mp3', dateLang: '31 мая 2015'},
   {id: 9, title: 'Цена приватности в сети.', file: 'Episodes/Techlife-2015-06-10.mp3', dateLang: '10 июня 2015'},
   {id: 10, title: 'Скорбь по ушедшим сервисам и продление жизни.', file: 'Episodes/Techlife-2015-06-27.mp3', dateLang: '27 июня 2015'},
-  {id: 11, title: 'Майкрософт съел Нокию, а Терминатор вернулся', file: 'Episodes/Techlife-2015-07-09.mp3', dateLang: '9 июля 2015'}
+  {id: 11, title: 'Майкрософт съел Нокию, а Терминатор вернулся', file: 'Episodes/Techlife-2015-07-09.mp3', dateLang: '9 июля 2015'},
+  {id: 12, title: 'Знакомство с Плутоном и успехи тек-компаний', file: 'Episodes/Techlife-2015-07-22.mp3', dateLang: '22 июля 2015'}
 ];
