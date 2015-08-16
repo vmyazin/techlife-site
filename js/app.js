@@ -7,9 +7,6 @@ var app = angular.module('techlifeApp', ['ngRoute']);
 
 app.controller('TechlifeCtrl', function($scope) {
   $scope.episodes = siteData.episodes;
-  $scope.alert = function() {
-    alert('test')
-  }
 });
 
 app.controller('EpisodeCtrl', function($scope, $routeParams) {
@@ -21,6 +18,7 @@ app.controller('EpisodeCtrl', function($scope, $routeParams) {
     var url = "partials/shownotes/shownotes." + id + ".html";
     return(url);
   };
+  
 });
 
 app.controller('PlayerCtrl', function($scope) {
@@ -29,7 +27,6 @@ app.controller('PlayerCtrl', function($scope) {
   }
   $scope.isPlaying = function (episode) {
     if(typeof episode !== 'undefined') {
-      console.log("Yo bitches", episode, ((window.isPlaying==true)&&(window.currentEpisode.id === episode.id)));
       return((window.isPlaying==true)&&(window.currentEpisode.id === episode.id));
     } else {
       return window.isPlaying;
