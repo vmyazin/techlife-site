@@ -30,6 +30,18 @@
         <itunes:subtitle>Ведущие: Дмитрий Здоров и Василий Мязин.</itunes:subtitle>
         <lastBuildDate>Mon, 27 July 2015 00:00:00 EST</lastBuildDate>
         <item>
+            <title>#14: Окончание безновостного лета</title>
+            <description>Встреча в калифорнийской студии. Логотип Гугла, Статья про Амазон, Взлом Эшли Мэдисон, Новинки от Эппл. http://techlifepodcast.com/episodes/14</description>
+            <itunes:summary>Встреча в калифорнийской студии. Логотип Гугла, Статья про Амазон, Взлом Эшли Мэдисон, Новинки от Эппл.</itunes:summary>
+            <itunes:subtitle>Болтаем про всякие вещи.</itunes:subtitle>
+            <itunesu:category itunesu:code="112" />
+            <enclosure url="http://techlifepodcast.com/Episodes/Techlife-2015-09-12.mp3" type="audio/mpeg" length="1" />
+            <guid>http://techlifepodcast.com/Episodes/Techlife-2015-09-12.mp3</guid>
+            <itunes:duration>H:MM:SS</itunes:duration>
+            <itunes:explicit>clean</itunes:explicit>
+            <pubDate>Thu, 17 September 2015 13:06:16 EST</pubDate>
+        </item>
+        <item>
             <title>#13: Москва, бизнес Эппл, Гугловский Алфавит, юань</title>
             <description>В этом эпизоде ведущие обсудили Димину поездку в Москву, магазины и землевладения Эппл, Гугловский Алфавит, китайский юань и карточку Коин. http://techlifepodcast.com/episodes/13</description>
             <itunes:summary>В этом эпизоде ведущие обсудили Димину поездку в Москву, магазины и землевладения Эппл, Гугловский Алфавит, китайский юань и карточку Коин.</itunes:summary>
