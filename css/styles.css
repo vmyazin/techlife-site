@@ -229,5 +229,5 @@ control {
 }
 .podcast-icon {
   display: inline-block;
-  max-width: 240px;
+  max-width: 100%;
 }
