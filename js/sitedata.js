@@ -13,5 +13,6 @@ siteData.episodes = [
   {id: 11, title: 'Майкрософт съел Нокию, а Терминатор вернулся', file: 'Episodes/Techlife-2015-07-09.mp3', dateLang: '9 июля 2015'},
   {id: 12, title: 'Знакомство с Плутоном и успехи тек-компаний', file: 'Episodes/Techlife-2015-07-22.mp3', dateLang: '22 июля 2015'},
   {id: 13, title: 'Москва, бизнес Эппл, Гугловский Алфавит, юань', file: 'Episodes/Techlife-2015-08-13.mp3', dateLang: '13 августа 2015'},
-  {id: 14, title: 'Окончание безновостного лета', file: 'Episodes/Techlife-2015-09-12.mp3', dateLang: '12 сентября 2015'}
+  {id: 14, title: 'Окончание безновостного лета', file: 'Episodes/Techlife-2015-09-12.mp3', dateLang: '12 сентября 2015'},
+  {id: 15, title: 'Новинки от тек-гигантов', file: 'Episodes/Techlife-2015-10-25.mp3', dateLang: '25 октября 2015'}
 ];
