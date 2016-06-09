@@ -14,5 +14,6 @@ siteData.episodes = [
   {id: 12, title: 'Знакомство с Плутоном и успехи тек-компаний', file: 'Episodes/Techlife-2015-07-22.mp3', dateLang: '22 июля 2015'},
   {id: 13, title: 'Москва, бизнес Эппл, Гугловский Алфавит, юань', file: 'Episodes/Techlife-2015-08-13.mp3', dateLang: '13 августа 2015'},
   {id: 14, title: 'Окончание безновостного лета', file: 'Episodes/Techlife-2015-09-12.mp3', dateLang: '12 сентября 2015'},
-  {id: 15, title: 'Новинки от тек-гигантов', file: 'Episodes/Techlife-2015-10-25.mp3', dateLang: '25 октября 2015'}
+  {id: 15, title: 'Новинки от тех-гигантов', file: 'Episodes/Techlife-2015-10-25.mp3', dateLang: '25 октября 2015'}
+  {id: 16, title: 'Гиганты мыслей мира технологий', file: 'Episodes/TechLife-2016-06-04.mp3', dateLang: '9 июня 2016'}
 ];

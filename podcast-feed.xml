@@ -22,15 +22,27 @@
         <itunes:explicit>no</itunes:explicit>
         <itunes:image href="http://techlifepodcast.com/img/techlife-artwork-1400x1400.jpg" />
         <atom:link href="http://techlifepodcast.com/podcast-feed.xml" rel="self" type="application/rss+xml" />
-        <pubDate>Sun, 01 Jan 2012 00:00:00 EST</pubDate>
+        <pubDate>Sun, 15 Mar 2015 17:06:16 EST</pubDate>
         <title>Технологии и жизнь</title>
         <itunes:author>Techlife Syndicate</itunes:author>
         <description>Интернет радио-программа про современные технологии, их влияние на нашу жизнь, и прочие мысли. Ведущие: Дмитрий Здóров и Василий Мязин.</description>
         <itunes:summary>Интернет радио-программа про современные технологии, их влияние на нашу жизнь, и прочие мысли.</itunes:summary>
         <itunes:subtitle>Ведущие: Дмитрий Здоров и Василий Мязин.</itunes:subtitle>
-        <lastBuildDate>Mon, 27 July 2015 00:00:00 EST</lastBuildDate>
+        <lastBuildDate>Thu, 9 June 2016 00:05:00 EST</lastBuildDate>
         <item>
-            <title>#15: Новинки от тек-гигантов</title>
+            <title>#16: Гиганты мыслей мира технологий</title>
+            <description>Блоги, видео клипы и обсуждение ИИ, Эппл и разных гигантов мыслей мира технологий.  http://techlifepodcast.com/episodes/16</description>
+            <itunes:summary><![CDATA[<p> Блоги, видео клипы и обсуждение ИИ, Эппл и разных гигантов мыслей мира технологий </p> <ul class="bulleted"> <br><b>Из баек:</b> <li><a href="https://es.foursquare.com/v/caf%C3%A9-britania/4f2c99ebe4b0fed2ad9e0d1b">Кафе Британия в Пуэбла</a></li> <li><a href="http://www.cnbc.com/2016/05/02/tim-cook-the-most-important-thing-for-apple-long-term.html ">Выступление Тима Кука на CNBC у Джима Креймера</a></li><br><b>Подкасты:</b> <li><a href="http://exponent.fm/">Экспонент</a> который ведёт Бен Томпсон и Джеймс Олворс, вебсайт Бена - <a href="https://stratechery.com/">Стратекари</a></li> <li><a href="http://daringfireball.net/thetalkshow/">Ток шоу</a> Джона Грубера, и его блог <a href="http://daringfireball.com/">Дэйринг Фаербол</a></li> <li><a href="http://atp.fm/">Случайный Тех Подкаст</a> (ATP - эй-ти-пи) который ведут Марко Армент, Кейси Лис и Джон Сиракюза</li> <li><a href="http://appleinsider.com/topic/podcast/">Эппл Инсайдер</a> и <a href="http://appleinsider.com/">их вебсайт</a></li> <li><a href="https://www.samharris.org/podcast">Сэм Хэррис</a></li> <li><a href="https://www.theincomparable.com/robot/">Робот или не робот</a> Джон Сиракюза и Джейсон Снелл</li> <li><a href="http://www.hellointernet.fm/">Хеллоу Интернет</a>CGP Грей и Броди Харан</li> <li><a href="http://thedrunkweb.com/">Пьяный веб</a></li> <br><b>Ютюб каналы:</b> <li><a href="https://www.youtube.com/user/CGPGrey/videos">CGP Grey</a> и клип <a href="про два мозга">https://www.youtube.com/watch?v=wfYbgdo8e-8</a></li> <li><a href="https://www.youtube.com/user/Kurzgesagt/videos">Курзгезагт</a> и вторая часть клипа уже <a href="https://www.youtube.com/watch?v=JQVmkDUkZT4">про то кто мы</a></li><br><b>Кино:</b> <li><a href="http://www.imdb.com/title/tt4598848/">Dennis Rodman's Big Bang in Pyongyang</a></li><br><b>Видео клипы с выступлениями:</b> <li>Выступления на Конференции Код:<a href="https://www.youtube.com/watch?v=guVxubbQQKE">Джеф Бизос</a></li> <li>Выступления на Конференции Код:<a href="https://www.youtube.com/watch?v=5ridyiKefjk">Элон Маск</a></li> <li><a href="https://www.youtube.com/watch?v=h8M_coe8eME">Тим Урбан о будущем и ИИ</a></li> <li><a href="http://waitbutwhy.com/">Тим Урбан</a> и его <a href="https://www.ted.com/talks/tim_urban_inside_the_mind_of_a_master_procrastinator?language=en">TED про прокрастинацию</a></li> <li><a href="https://youtu.be/334Gfug5OL0">Мерри Микер про тенденции года в интернете</a> и <a href="http://www.kpcb.com/blog/2016-internet-trends-report">полный доклад</a></li><br><b>Программы:</b> <li><a href="https://brave.com/">Браузер Брейв</a> который режет всю рекламу</li> <li><a href="https://www.sketchapp.com/">Скетч</a> Векторный редактор для дизайна интерфейсов и не только</li> <li>Аффинити <a href="https://affinity.serif.com/photo/">Фото</a> и <a href="https://affinity.serif.com/designer/">Дизайнер</a> новая замена Адоби Фотошопу и Иллюстратору</li></ul>]]></itunes:summary>
+            <itunes:subtitle>Болтаем про всякие вещи.</itunes:subtitle>
+            <itunesu:category itunesu:code="112" />
+            <enclosure url="http://techlifepodcast.com/Episodes/TechLife-2016-06-04.mp3" type="audio/mpeg" length="27845402" />
+            <guid>http://techlifepodcast.com/Episodes/TechLife-2016-06-04.mp3</guid>
+            <itunes:duration>H:MM:SS</itunes:duration>
+            <itunes:explicit>clean</itunes:explicit>
+            <pubDate>Thu, 9 June 2016 00:05:00 EST</pubDate>
+        </item>
+        <item>
+            <title>#15: Новинки от тех-гигантов</title>
             <description>Новинки от Microsoft, Google и Apple. http://techlifepodcast.com/episodes/15</description>
             <itunes:summary>Новинки от Microsoft, Google и Apple.</itunes:summary>
             <itunes:subtitle>Болтаем про всякие вещи.</itunes:subtitle>
@@ -66,7 +78,7 @@
             <pubDate>Sun, 13 August 2015 23:06:16 EST</pubDate>
         </item>
         <item>
-            <title>#12: Знакомство с Плутоном и успехи тек-компаний</title>
+            <title>#12: Знакомство с Плутоном и успехи тех-компаний</title>
             <description>В этом эпизоде ведущие обсудили недопланету Плутон, приоритеты Эппл и Микрософт, новый Айпод Тач. http://techlifepodcast.com/episodes/12</description>
             <itunes:summary>В этом эпизоде ведущие обсудили недопланету Плутон, приоритеты Эппл и Микрософт, новый Айпод Тач.</itunes:summary>
             <itunes:subtitle>Болтаем про всякие вещи.</itunes:subtitle>
