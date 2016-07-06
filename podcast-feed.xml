@@ -3,7 +3,7 @@
     <channel>
         <link>http://techlifepodcast.com/</link>
         <language>ru</language>
-        <copyright>&#xA9;2015</copyright>
+        <copyright>&#xA9;2016</copyright>
         <webMaster>talk@techlifepodcast.com (Vasily Myazin and Dmitri Zdorov)</webMaster>
         <managingEditor>talk@techlifepodcast.com (Vasily Myazin and Dmitri Zdorov)</managingEditor>
         <image>
@@ -22,20 +22,60 @@
         <itunes:explicit>no</itunes:explicit>
         <itunes:image href="http://techlifepodcast.com/img/techlife-artwork-1400x1400.jpg" />
         <atom:link href="http://techlifepodcast.com/podcast-feed.xml" rel="self" type="application/rss+xml" />
-        <pubDate>Sun, 15 Mar 2015 17:06:16 EST</pubDate>
+        <pubDate>Thu, 29 June 2016 00:05:00 EST</pubDate>
         <title>Технологии и жизнь</title>
         <itunes:author>Techlife Syndicate</itunes:author>
-        <description>Интернет радио-программа про современные технологии, их влияние на нашу жизнь, и прочие мысли. Ведущие: Дмитрий Здóров и Василий Мязин.</description>
+        <description>Интернет радио-программа про современные технологии, их влияние на нашу жизнь, и прочие мысли. Ведущие: Дмитрий Здоров и Василий Мязин.</description>
         <itunes:summary>Интернет радио-программа про современные технологии, их влияние на нашу жизнь, и прочие мысли.</itunes:summary>
         <itunes:subtitle>Ведущие: Дмитрий Здоров и Василий Мязин.</itunes:subtitle>
-        <lastBuildDate>Thu, 9 June 2016 00:05:00 EST</lastBuildDate>
+        <lastBuildDate>Thu, 29 June 2016 00:05:00 EST</lastBuildDate>
+        <item>
+            <title>#17: Живём ли мы в симуляции и прочие современности</title>
+            <description><![CDATA[<p>Живём ли мы в симуляции, что же принёс WWDC, конференция Layers и прочие современности</p><p><b>По следам прошлого эпизода:</b></p>
+<ul class="bulleted"><li><a href="https://www.youtube.com/watch?v=2KK_kzrJPS8">Джош Топольский спрашивает Элона Маска живём ли мы в симуляции</a> 1 на миллиарды что нет</li>
+<li><a href="https://developer.apple.com/videos/wwdc2016/">Коференция Разработчиков для платформ Эппл</a> (WWDC даб-даб-ди-си)</li>
+</ul><p><b>Статьи и новости:</b></p><ul class="bulleted"><li><a href="http://exponent.fm/episode-083-microsoft-linkedin-versus-apple-wwdc/">Экспонент, эпизод 83</a> в котором Бен Томпсон объясняет про крутость покупки Linkedin</li>
+<li><a href="https://bringyourlayers.com/">Дизайнерская конференция Layers (Лейерс)</a></li>	
+<li><a href="http://www.macworld.com/article/1151235/macs/apple-rolls.html">Статья Джона Грубера о том как Эппл катит вперёд</a></li>
+<li><a href="http://thehackernews.com/2016/06/tape-over-webcam.html">Марк Цукерберг заклеивает камеру</a></li>
+<li><a href="https://news.vice.com/topic/edward-snowden">Vice про Эдварда Сноудена</a></li>
+</ul><p><b>Гаджеты и программы:</b></p><ul class="bulleted"><li><a href="http://amzn.to/29Mj4fT">Amazon Echo</a> колонка, которая выполняет голосовые команды</li>
+<li><a href="http://amzn.to/29mpq5H">Amazon Kindle Oasis</a>новейшая читалка</li>
+<li><a href="http://www.apple.com/imac/specs/">Apple iMac</a> самый <a href="http://amzn.to/29fxnaN">быстрый</a> на данный момент аймак</li>
+<li><a href="https://itunes.apple.com/app/wiki-offline-wikipedia-experience/id378348813?mt=8">Wiki Offline</a></li>
+<li><a href="http://amzn.to/29kg3re">Аккомулятор EasyAcc Classic на 15000mAh</a>с солнечной батареей</li>
+<li><a href="http://amzn.to/29uY7K3">Аккомулятор Eton BoostTurbine на 2000mAh</a>с ручной подкруткой</li></ul><p>
+<a href="https://itunes.apple.com/podcast/tehnologii-i-zizn/id1013700516?mt=2">наш подкаст в директории подкастов Эппл</a></p>]]></description>
+            <itunes:summary>Живём ли мы в симуляции, что же принёс WWDC, конференция Layers и прочие современности.  http://techlifepodcast.com/episodes/17</itunes:summary>
+            <itunes:subtitle><![CDATA[<p>Живём ли мы в симуляции, что же принёс WWDC, конференция Layers и прочие современности</p><p><b>По следам прошлого эпизода:</b></p>
+<ul class="bulleted"><li><a href="https://www.youtube.com/watch?v=2KK_kzrJPS8">Джош Топольский спрашивает Элона Маска живём ли мы в симуляции</a> 1 на миллиарды что нет</li>
+<li><a href="https://developer.apple.com/videos/wwdc2016/">Коференция Разработчиков для платформ Эппл</a> (WWDC даб-даб-ди-си)</li>
+</ul><p><b>Статьи и новости:</b></p><ul class="bulleted"><li><a href="http://exponent.fm/episode-083-microsoft-linkedin-versus-apple-wwdc/">Экспонент, эпизод 83</a> в котором Бен Томпсон объясняет про крутость покупки Linkedin</li>
+<li><a href="https://bringyourlayers.com/">Дизайнерская конференция Layers (Лейерс)</a></li>	
+<li><a href="http://www.macworld.com/article/1151235/macs/apple-rolls.html">Статья Джона Грубера о том как Эппл катит вперёд</a></li>
+<li><a href="http://thehackernews.com/2016/06/tape-over-webcam.html">Марк Цукерберг заклеивает камеру</a></li>
+<li><a href="https://news.vice.com/topic/edward-snowden">Vice про Эдварда Сноудена</a></li>
+</ul><p><b>Гаджеты и программы:</b></p><ul class="bulleted"><li><a href="http://amzn.to/29Mj4fT">Amazon Echo</a> колонка, которая выполняет голосовые команды</li>
+<li><a href="http://amzn.to/29mpq5H">Amazon Kindle Oasis</a>новейшая читалка</li>
+<li><a href="http://www.apple.com/imac/specs/">Apple iMac</a> самый <a href="http://amzn.to/29fxnaN">быстрый</a> на данный момент аймак</li>
+<li><a href="https://itunes.apple.com/app/wiki-offline-wikipedia-experience/id378348813?mt=8">Wiki Offline</a></li>
+<li><a href="http://amzn.to/29kg3re">Аккомулятор EasyAcc Classic на 15000mAh</a>с солнечной батареей</li>
+<li><a href="http://amzn.to/29uY7K3">Аккомулятор Eton BoostTurbine на 2000mAh</a>с ручной подкруткой</li></ul><p>
+<a href="https://itunes.apple.com/podcast/tehnologii-i-zizn/id1013700516?mt=2">наш подкаст в директории подкастов Эппл</a></p>]]></itunes:subtitle>
+            <itunesu:category itunesu:code="112" />
+            <enclosure url="http://techlifepodcast.com/Episodes/TechLife-2016-06-29.mp3" type="audio/mpeg" length="39800000" />
+            <guid>http://techlifepodcast.com/Episodes/TechLife-2016-06-29.mp3</guid>
+            <itunes:duration>H:MM:SS</itunes:duration>
+            <itunes:explicit>clean</itunes:explicit>
+            <pubDate>Thu, 29 June 2016 00:05:00 EST</pubDate>
+        </item>
         <item>
             <title>#16: Гиганты мыслей мира технологий</title>
             <description><![CDATA[<p> Блоги, видео клипы и обсуждение ИИ, Эппл и разных гигантов мыслей мира технологий </p> <ul class="bulleted"> <br><b>Из баек:</b> <li><a href="https://es.foursquare.com/v/caf%C3%A9-britania/4f2c99ebe4b0fed2ad9e0d1b">Кафе Британия в Пуэбла</a></li> <li><a href="http://www.cnbc.com/2016/05/02/tim-cook-the-most-important-thing-for-apple-long-term.html ">Выступление Тима Кука на CNBC у Джима Креймера</a></li><br><b>Подкасты:</b> <li><a href="http://exponent.fm/">Экспонент</a> который ведёт Бен Томпсон и Джеймс Олворс, вебсайт Бена - <a href="https://stratechery.com/">Стратекари</a></li> <li><a href="http://daringfireball.net/thetalkshow/">Ток шоу</a> Джона Грубера, и его блог <a href="http://daringfireball.com/">Дэйринг Фаербол</a></li> <li><a href="http://atp.fm/">Случайный Тех Подкаст</a> (ATP - эй-ти-пи) который ведут Марко Армент, Кейси Лис и Джон Сиракюза</li> <li><a href="http://appleinsider.com/topic/podcast/">Эппл Инсайдер</a> и <a href="http://appleinsider.com/">их вебсайт</a></li> <li><a href="https://www.samharris.org/podcast">Сэм Хэррис</a></li> <li><a href="https://www.theincomparable.com/robot/">Робот или не робот</a> Джон Сиракюза и Джейсон Снелл</li> <li><a href="http://www.hellointernet.fm/">Хеллоу Интернет</a>CGP Грей и Броди Харан</li> <li><a href="http://thedrunkweb.com/">Пьяный веб</a></li> <br><b>Ютюб каналы:</b> <li><a href="https://www.youtube.com/user/CGPGrey/videos">CGP Grey</a> и клип <a href="про два мозга">https://www.youtube.com/watch?v=wfYbgdo8e-8</a></li> <li><a href="https://www.youtube.com/user/Kurzgesagt/videos">Курзгезагт</a> и вторая часть клипа уже <a href="https://www.youtube.com/watch?v=JQVmkDUkZT4">про то кто мы</a></li><br><b>Кино:</b> <li><a href="http://www.imdb.com/title/tt4598848/">Dennis Rodman's Big Bang in Pyongyang</a></li><br><b>Видео клипы с выступлениями:</b> <li>Выступления на Конференции Код:<a href="https://www.youtube.com/watch?v=guVxubbQQKE">Джеф Бизос</a></li> <li>Выступления на Конференции Код:<a href="https://www.youtube.com/watch?v=5ridyiKefjk">Элон Маск</a></li> <li><a href="https://www.youtube.com/watch?v=h8M_coe8eME">Тим Урбан о будущем и ИИ</a></li> <li><a href="http://waitbutwhy.com/">Тим Урбан</a> и его <a href="https://www.ted.com/talks/tim_urban_inside_the_mind_of_a_master_procrastinator?language=en">TED про прокрастинацию</a></li> <li><a href="https://youtu.be/334Gfug5OL0">Мерри Микер про тенденции года в интернете</a> и <a href="http://www.kpcb.com/blog/2016-internet-trends-report">полный доклад</a></li><br><b>Программы:</b> <li><a href="https://brave.com/">Браузер Брейв</a> который режет всю рекламу</li> <li><a href="https://www.sketchapp.com/">Скетч</a> Векторный редактор для дизайна интерфейсов и не только</li> <li>Аффинити <a href="https://affinity.serif.com/photo/">Фото</a> и <a href="https://affinity.serif.com/designer/">Дизайнер</a> новая замена Адоби Фотошопу и Иллюстратору</li></ul>]]></description>
             <itunes:summary>Блоги, видео клипы и обсуждение ИИ, Эппл и разных гигантов мыслей мира технологий.  http://techlifepodcast.com/episodes/16</itunes:summary>
             <itunes:subtitle>Болтаем про всякие вещи.</itunes:subtitle>
             <itunesu:category itunesu:code="112" />
-            <enclosure url="http://techlifepodcast.com/Episodes/TechLife-2016-06-04.mp3" type="audio/mpeg" length="27845402" />
+            <enclosure url="http://techlifepodcast.com/Episodes/TechLife-2016-06-04.mp3" type="audio/mpeg" length="40020630" />
             <guid>http://techlifepodcast.com/Episodes/TechLife-2016-06-04.mp3</guid>
             <itunes:duration>H:MM:SS</itunes:duration>
             <itunes:explicit>clean</itunes:explicit>

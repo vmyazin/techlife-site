@@ -16,4 +16,5 @@ siteData.episodes = [
   {id: 14, title: 'Окончание безновостного лета', file: 'Episodes/Techlife-2015-09-12.mp3', dateLang: '12 сентября 2015'},
   {id: 15, title: 'Новинки от тех-гигантов', file: 'Episodes/Techlife-2015-10-25.mp3', dateLang: '25 октября 2015'},
   {id: 16, title: 'Гиганты мыслей мира технологий', file: 'Episodes/TechLife-2016-06-04.mp3', dateLang: '9 июня 2016'}
+  {id: 17, title: 'Живём ли мы в симуляции и прочие современности', file: 'Episodes/TechLife-2016-06-29.mp3', dateLang: '29 июня 2016'}
 ];
