@@ -22,13 +22,55 @@
         <itunes:explicit>no</itunes:explicit>
         <itunes:image href="http://techlifepodcast.com/img/techlife-artwork-1400x1400.jpg" />
         <atom:link href="http://techlifepodcast.com/podcast-feed.xml" rel="self" type="application/rss+xml" />
-        <pubDate>Thu, 29 June 2016 00:05:00 EST</pubDate>
+        <pubDate>Mon, 11 July 2016 00:05:00 EST</pubDate>
         <title>Технологии и жизнь</title>
         <itunes:author>Techlife Syndicate</itunes:author>
         <description>Интернет радио-программа про современные технологии, их влияние на нашу жизнь, и прочие мысли. Ведущие: Дмитрий Здоров и Василий Мязин.</description>
         <itunes:summary>Интернет радио-программа про современные технологии, их влияние на нашу жизнь, и прочие мысли.</itunes:summary>
         <itunes:subtitle>Ведущие: Дмитрий Здоров и Василий Мязин.</itunes:subtitle>
-        <lastBuildDate>Thu, 29 June 2016 00:05:00 EST</lastBuildDate>
+        <lastBuildDate>Mon, 11 July 2016 00:05:00 EST</lastBuildDate>
+        <item>
+            <title>#18: Защищают ли авторские права от врагов из космоса</title>
+            <description><![CDATA[<p>
+Защищают ли авторские права от врагов из космоса
+</p>
+<p><b>Ссылки к эпизоду:</b></p>
+<ul class="bulleted">
+	<li><a href="https://overcast.fm/+B1qx2yBpE/1:05:01">СиДжиПи Грей про диспуты о монетизации ютюба</a></li>
+	<li><a href="http://www.bloomberg.com/news/articles/2016-07-11/facebook-sued-for-1b-for-alleged-hamas-use-of-medium-for-terror">Фейсбук судят на миллиард якобы за помощь хамасу</a></li>
+	<li><a href="http://www.nytimes.com/2016/07/06/technology/snapchat-snow-korea.html?_r=0">Сноу [Snow] - Корейская копия снепчата бурно развивается</a></li>
+	<li><a href="http://www.fastcompany.com/3057182/inside-juno-the-company-that-wants-to-beat-uber-by-wooing-its-drivers">Джуно [Juno] новый конкурент Юбера</a></li>
+	<li><a href="https://ru.wikipedia.org/wiki/Великий_фильтр">Великий фильтр</a> в рамках парадокса Ферми</li>
+	<li><a href="https://www.kinopoisk.ru/film/724982/">Звезда</a> фильм 2014</li>
+	<li><a href="http://www.imdb.com/title/tt3553976/">Captain Fantastic</a> фильм 2016</li>
+</ul>
+<p>
+<a href="https://itunes.apple.com/podcast/tehnologii-i-zizn/id1013700516?mt=2">наш подкаст в директории подкастов Эппл</a>
+</p>]]></description>
+            <itunes:summary>Защищают ли авторские права от врагов из космоса http://techlifepodcast.com/episodes/18</itunes:summary>
+            <itunes:subtitle><![CDATA[<p>
+Защищают ли авторские права от врагов из космоса
+</p>
+<p><b>Ссылки к эпизоду:</b></p>
+<ul class="bulleted">
+	<li><a href="https://overcast.fm/+B1qx2yBpE/1:05:01">СиДжиПи Грей про диспуты о монетизации ютюба</a></li>
+	<li><a href="http://www.bloomberg.com/news/articles/2016-07-11/facebook-sued-for-1b-for-alleged-hamas-use-of-medium-for-terror">Фейсбук судят на миллиард якобы за помощь хамасу</a></li>
+	<li><a href="http://www.nytimes.com/2016/07/06/technology/snapchat-snow-korea.html?_r=0">Сноу [Snow] - Корейская копия снепчата бурно развивается</a></li>
+	<li><a href="http://www.fastcompany.com/3057182/inside-juno-the-company-that-wants-to-beat-uber-by-wooing-its-drivers">Джуно [Juno] новый конкурент Юбера</a></li>
+	<li><a href="https://ru.wikipedia.org/wiki/Великий_фильтр">Великий фильтр</a> в рамках парадокса Ферми</li>
+	<li><a href="https://www.kinopoisk.ru/film/724982/">Звезда</a>, фильм 2014 года</li>
+	<li><a href="http://www.imdb.com/title/tt3553976/">Captain Fantastic</a>, фильм 2016 года</li>
+</ul>
+<p>
+<a href="https://itunes.apple.com/podcast/tehnologii-i-zizn/id1013700516?mt=2">наш подкаст в директории подкастов Эппл</a>
+</p>]]></itunes:subtitle>
+            <itunesu:category itunesu:code="112" />
+            <enclosure url="http://techlifepodcast.com/Episodes/TechLife-18-2016-07-11.mp3" type="audio/mpeg" length="26260000" />
+            <guid>http://techlifepodcast.com/Episodes/TechLife-18-2016-07-11.mp3</guid>
+            <itunes:duration>H:MM:SS</itunes:duration>
+            <itunes:explicit>clean</itunes:explicit>
+            <pubDate>Mon, 11 July 2016 00:05:00 EST</pubDate>
+        </item>
         <item>
             <title>#17: Живём ли мы в симуляции и прочие современности</title>
             <description><![CDATA[<p>Живём ли мы в симуляции, что же принёс WWDC, конференция Layers и прочие современности</p><p><b>По следам прошлого эпизода:</b></p>
