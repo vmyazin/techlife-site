@@ -58,7 +58,9 @@ app.controller('PlayerCtrl', function($scope) {
 
 app.config(['$routeProvider', '$locationProvider',
   function($routeProvider, $locationProvider) {
-    $locationProvider.html5Mode(true);
+    $locationProvider.html5Mode({
+      enabled: true
+    });
     $routeProvider.
       when('/about', {
         templateUrl: 'partials/about.tpl.html'
@@ -81,6 +83,10 @@ app.filter('reverse', function() {
   return function(items) {
     return items.slice().reverse();
   };
+});
+
+app.run(function($location, $rootElement) {
+  $rootElement.off('click');
 });
 
 
