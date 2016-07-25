@@ -231,3 +231,8 @@ control {
   display: inline-block;
   max-width: 100%;
 }
+@media (max-width: 550px) {
+  .podcast-icon {
+    display: none;
+  }
+}
