@@ -18,5 +18,5 @@ siteData.episodes = [
   {id: 16, title: 'Гиганты мыслей мира технологий', file: 'Episodes/TechLife-2016-06-04.mp3', dateLang: '9 июня 2016'},
   {id: 17, title: 'Живём ли мы в симуляции и прочие современности', file: 'Episodes/TechLife-2016-06-29.mp3', dateLang: '29 июня 2016'},
   {id: 18, title: 'Защищают ли авторские права от врагов из космоса', file: 'Episodes/TechLife-18-2016-07-11.mp3', dateLang: '11 июля 2016'},
-  {id: 19, title: 'Взрывающиеся телефоны, Трампа и о Риге', file: 'Episodes/TechLife-19-2016-11-15.mp3', dateLang: '15 ноября 2016'}
+  {id: 19, title: 'Взрывающиеся телефоны, Трамп и о Риге', file: 'Episodes/TechLife-19-2016-11-15.mp3', dateLang: '15 ноября 2016'}
 ];

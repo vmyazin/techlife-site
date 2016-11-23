@@ -22,6 +22,71 @@
         <itunes:explicit>no</itunes:explicit>
         <itunes:image href="http://techlifepodcast.com/img/techlife-artwork-1400x1400.jpg" />
         <atom:link href="http://techlifepodcast.com/podcast-feed.xml" rel="self" type="application/rss+xml" />
+        
+<!-- начало эпизодов -->       
+        
+        <pubDate>Tue, 15 Nov 2016 00:05:00 EST</pubDate>
+        <title>Технологии и жизнь</title>
+        <itunes:author>Techlife Syndicate</itunes:author>
+        <description>Интернет радио-программа про современные технологии, их влияние на нашу жизнь, и прочие мысли. Ведущие: Дмитрий Здоров и Василий Мязин.</description>
+        <itunes:summary>Интернет радио-программа про современные технологии, их влияние на нашу жизнь, и прочие мысли.</itunes:summary>
+        <itunes:subtitle>Ведущие: Дмитрий Здоров и Василий Мязин.</itunes:subtitle>
+        <lastBuildDate>Tue, 15 November 2016 00:05:00 EST</lastBuildDate>
+        <item>
+            <title>#19: Взрывающиеся телефоны, победа Трампа и заметки из Риги</title>
+            <description><![CDATA[<p>
+Взрывающиеся телефоны, победа Трампа и заметки из Риги
+</p>
+<p><b>Ссылки к эпизоду:</b></p>
+<ul class="bulleted">
+    <li><a href="http://mjt.org/">Музей юрских технологий (Museum of Jurassic Technology)</a></li>
+    <li><a href="http://www.apple.com/iphone-7/">айФон 7</a></li>
+    <li><a href="http://www.apple.com/apple-watch-series-2/">Эппл воч 2</a></li>
+    <li><a href="https://madeby.google.com/phone/">Гугл телефон Пиксель</a></li>
+    <li><a href="https://www.microsoft.com/en-us/windows/upcoming-features">Микрософт Винды Креативная версия</a></li>
+    <li><a href="https://gsuite.google.com/jamboard/">Гугл джемборд (умная школьная "доска")</a></li>
+    <li><a href="https://www.microsoft.com/en-us/surface">Микрософт сёрфис (настольный комп за 3000 баксов)</a></li>
+    <li><a href="https://blogs.msdn.microsoft.com/visualstudio/2016/11/16/visual-studio-for-mac/">Визуал Студио для мака</a></li>
+    <li><a href="http://www.androidcentral.com/samsung-galaxy-note-7">Взрывающиеся телефоны Самсунга</a></li>
+    <li><a href="https://ru.wikipedia.org/wiki/Чикагский_отравитель">История про отравленный тайленол</a></li>
+    <li><a href="https://ru.wikipedia.org/wiki/Тиль,_Питер">Питер Тиль</a></li>
+    <li><a href="https://www.youtube.com/watch?v=OUS9mM8Xbbw">СиДжиПи Грей про электральную систему</a> и <a href="https://www.youtube.com/watch?v=7wC42HgLA4k">её проблемы</a></li>
+</ul>
+<p>
+<a href="https://itunes.apple.com/podcast/tehnologii-i-zizn/id1013700516?mt=2">наш подкаст в директории подкастов Эппл</a>
+</p>]]></description>
+            <itunes:summary>Взрывающиеся телефоны, победа Трампа и заметки из Риги http://techlifepodcast.com/episodes/19</itunes:summary>
+            <itunes:subtitle><![CDATA[<p>
+Взрывающиеся телефоны, победа Трампа и заметки из Риги
+</p>
+<p><b>Ссылки к эпизоду:</b></p>
+<ul class="bulleted">
+    <li><a href="http://mjt.org/">Музей юрских технологий (Museum of Jurassic Technology)</a></li>
+    <li><a href="http://www.apple.com/iphone-7/">айФон 7</a></li>
+    <li><a href="http://www.apple.com/apple-watch-series-2/">Эппл воч 2</a></li>
+    <li><a href="https://madeby.google.com/phone/">Гугл телефон Пиксель</a></li>
+    <li><a href="https://www.microsoft.com/en-us/windows/upcoming-features">Микрософт Винды Креативная версия</a></li>
+    <li><a href="https://gsuite.google.com/jamboard/">Гугл джемборд (умная школьная "доска")</a></li>
+    <li><a href="https://www.microsoft.com/en-us/surface">Микрософт сёрфис (настольный комп за 3000 баксов)</a></li>
+    <li><a href="https://blogs.msdn.microsoft.com/visualstudio/2016/11/16/visual-studio-for-mac/">Визуал Студио для мака</a></li>
+    <li><a href="http://www.androidcentral.com/samsung-galaxy-note-7">Взрывающиеся телефоны Самсунга</a></li>
+    <li><a href="https://ru.wikipedia.org/wiki/Чикагский_отравитель">История про отравленный тайленол</a></li>
+    <li><a href="https://ru.wikipedia.org/wiki/Тиль,_Питер">Питер Тиль</a></li>
+    <li><a href="https://www.youtube.com/watch?v=OUS9mM8Xbbw">СиДжиПи Грей про электральную систему</a> и <a href="https://www.youtube.com/watch?v=7wC42HgLA4k">её проблемы</a></li>
+</ul>
+<p>
+<a href="https://itunes.apple.com/podcast/tehnologii-i-zizn/id1013700516?mt=2">наш подкаст в директории подкастов Эппл</a>
+</p>]]></itunes:subtitle>
+            <itunesu:category itunesu:code="112" />
+            <enclosure url="http://techlifepodcast.com/Episodes/TechLife-19-2016-11-15.mp3" type="audio/mpeg" length="27720000" />
+            <guid>http://techlifepodcast.com/Episodes/TechLife-19-2016-11-15.mp3</guid>
+            <itunes:duration>H:MM:SS</itunes:duration>
+            <itunes:explicit>clean</itunes:explicit>
+            <pubDate>Tue, 15 November 2016 00:05:00 EST</pubDate>
+        </item>
+        
+<!-- разделитель эпизодов -->          
+        
         <pubDate>Mon, 11 July 2016 00:05:00 EST</pubDate>
         <title>Технологии и жизнь</title>
         <itunes:author>Techlife Syndicate</itunes:author>
@@ -71,6 +136,9 @@
             <itunes:explicit>clean</itunes:explicit>
             <pubDate>Mon, 11 July 2016 00:05:00 EST</pubDate>
         </item>
+        
+<!-- разделитель эпизодов -->          
+        
         <item>
             <title>#17: Живём ли мы в симуляции и прочие современности</title>
             <description><![CDATA[<p>Живём ли мы в симуляции, что же принёс WWDC, конференция Layers и прочие современности</p><p><b>По следам прошлого эпизода:</b></p>
