@@ -17,6 +17,7 @@
   <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
     <meta name="description" content="<?php echo $meta_description ?>">
+    <meta name="yandex-verification" content="1e35c2242a2ebcee" />
 
     <title><?php echo $page_title ?></title>
 
