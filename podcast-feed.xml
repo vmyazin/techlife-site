@@ -25,6 +25,54 @@
         
 <!-- начало эпизодов -->       
         
+        <pubDate>Wed, 14 Dec 2016 00:05:00 EST</pubDate>
+        <title>Технологии и жизнь</title>
+        <itunes:author>Techlife Syndicate</itunes:author>
+        <description>Интернет радио-программа про современные технологии, их влияние на нашу жизнь, и прочие мысли. Ведущие: Дмитрий Здоров и Василий Мязин.</description>
+        <itunes:summary>Интернет радио-программа про современные технологии, их влияние на нашу жизнь, и прочие мысли.</itunes:summary>
+        <itunes:subtitle>Ведущие: Дмитрий Здоров и Василий Мязин.</itunes:subtitle>
+        <lastBuildDate>Wed, 14 Dec 2016 00:05:00 EST</lastBuildDate>
+        <item>
+            <title>#21: Мир дикого запада, Польши и неприбытие инопланетян</title>
+            <description><![CDATA[<p>
+Мир дикого запада, Польши и неприбытие инопланетян
+</p>
+<p><b>Ссылки к эпизоду:</b></p>
+<ul class="bulleted">
+    <li><a href="https://techcrunch.com/2016/11/22/googles-ai-translation-tool-seems-to-have-invented-its-own-secret-internal-language/">Искусственный интелект Гугла создаёт свой язык</a></li>
+    <li><a href="https://www.kinopoisk.ru/film/195523/">Сериал «Мир Дикого Запада»</a></li>
+    <li><a href="https://www.kinopoisk.ru/film/718811/">к/ф Прибытие</a></li>
+    <li><a href="http://www.theverge.com/2016/12/6/13853566/samsung-s8-rumor-release-headphone-jack-usb-c">Новый смартфон от Самсунг будет без входа для наушников</a></li>
+    
+</ul>
+<p>
+<a href="https://itunes.apple.com/podcast/tehnologii-i-zizn/id1013700516?mt=2">наш подкаст в директории подкастов Эппл</a> и <a href="https://overcast.fm/itunes1013700516">в Оверкасте</a>
+</p>]]></description>
+            <itunes:summary>Мир дикого запада, Польши и неприбытие инопланетян http://techlifepodcast.com/episodes/21</itunes:summary>
+            <itunes:subtitle><![CDATA[<p>
+Мир дикого запада, Польши и неприбытие инопланетян
+</p>
+<p><b>Ссылки к эпизоду:</b></p>
+<ul class="bulleted">
+    <li><a href="https://techcrunch.com/2016/11/22/googles-ai-translation-tool-seems-to-have-invented-its-own-secret-internal-language/">Искусственный интелект Гугла создаёт свой язык</a></li>
+    <li><a href="https://www.kinopoisk.ru/film/195523/">Сериал «Мир Дикого Запада»</a></li>
+    <li><a href="https://www.kinopoisk.ru/film/718811/">к/ф Прибытие</a></li>
+    <li><a href="http://www.theverge.com/2016/12/6/13853566/samsung-s8-rumor-release-headphone-jack-usb-c">Новый смартфон от Самсунг будет без входа для наушников</a></li>
+    
+</ul>
+<p>
+<a href="https://itunes.apple.com/podcast/tehnologii-i-zizn/id1013700516?mt=2">наш подкаст в директории подкастов Эппл</a> и <a href="https://overcast.fm/itunes1013700516">в Оверкасте</a>
+</p>]]></itunes:subtitle>
+            <itunesu:category itunesu:code="112" />
+            <enclosure url="http://feeds.soundcloud.com/stream/298312917-techlifepodcast-techlife-21-2016-12-14.mp3" type="audio/mpeg" length="22980000" />
+            <guid>http://feeds.soundcloud.com/stream/298312917-techlifepodcast-techlife-21-2016-12-14.mp3</guid>
+            <itunes:duration>H:MM:SS</itunes:duration>
+            <itunes:explicit>clean</itunes:explicit>
+            <pubDate>Wed, 14 December 2016 00:05:00 EST</pubDate>
+        </item>
+        
+<!-- разделитель эпизодов --> 
+        
         <pubDate>Thu, 29 Nov 2016 00:05:00 EST</pubDate>
         <title>Технологии и жизнь</title>
         <itunes:author>Techlife Syndicate</itunes:author>
@@ -76,6 +124,8 @@
         </item>
         
 <!-- разделитель эпизодов --> 
+
+
         
         <pubDate>Tue, 15 Nov 2016 00:05:00 EST</pubDate>
         <title>Технологии и жизнь</title>
