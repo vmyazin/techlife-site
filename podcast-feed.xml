@@ -23,8 +23,58 @@
         <itunes:image href="http://techlifepodcast.com/img/techlife-artwork-1400x1400.jpg" />
         <atom:link href="http://techlifepodcast.com/podcast-feed.xml" rel="self" type="application/rss+xml" />
         
-<!-- начало эпизодов -->       
+<!-- начало эпизодов --> 
+      
+        <pubDate>Fri, 17 Mar 2017 00:05:00 EST</pubDate>
+        <title>Технологии и жизнь</title>
+        <itunes:author>Techlife Syndicate</itunes:author>
+        <description>Интернет радио-программа про современные технологии, их влияние на нашу жизнь, и прочие мысли. Ведущие: Дмитрий Здоров и Василий Мязин.</description>
+        <itunes:summary>Интернет радио-программа про современные технологии, их влияние на нашу жизнь, и прочие мысли.</itunes:summary>
+        <itunes:subtitle>Ведущие: Дмитрий Здоров и Василий Мязин.</itunes:subtitle>
+        <lastBuildDate>Fri, 17 Mar 2017 00:05:00 EST</lastBuildDate>
+        <item>
+            <title>#22: Сложности с айФонами, путешествия, новый подкаст Василия и неновости</title>
+            <description><![CDATA[<p>
+Сложности с айФонами, путешествия, новый подкаст Василия и неновости
+</p>
+<p><b>Ссылки к эпизоду:</b></p>
+<ul class="bulleted">
+    <li><a href="http://exponent.fm/episode-106-to-be-an-outlaw/">Бен Томпсон про удаление Убер Апп и критику Эппл</a></li>
+    <li><a href="http://www.theverge.com/2017/2/28/14760400/iphone-8-2017-rumors-usb-c-lightning">Слухи про USB-C в следующем айФоне</a></li>
+    <li><img src="http://thedimka.com/i/thailand-electrical-outlet-531.png" width="531" height="350" border="0"><br>Электрические розетки в Тайланде подойдут и для американских вилок и для европейских</li>
+    <li><a href="https://vimeo.com/36128360">Джонатан Хайдт рассказывает о недопонимании в обществе между консерваторами и либералами</a></li>
+    <li><a href="http://www.everydayjourneypodcast.com/">Новый подкаст Василия - Everyday Journey Podcast</a></li>
+    <li><a href="https://www.youtube.com/watch?v=y3qkf3bajd4">Юрий Безменов: Deception Was My Job</a></li>
+</ul>
+<p>
+<a href="https://itunes.apple.com/podcast/tehnologii-i-zizn/id1013700516?mt=2">наш подкаст в директории подкастов Эппл</a>
+<br>и <a href="https://overcast.fm/itunes1013700516">в Оверкасте</a>]]></description>
+            <itunes:summary>Сложности с айФонами, путешествия, новый подкаст Василия и неновости http://techlifepodcast.com/episodes/22</itunes:summary>
+            <itunes:subtitle><![CDATA[<p>
+Сложности с айФонами, путешествия, новый подкаст Василия и неновости
+</p>
+<p><b>Ссылки к эпизоду:</b></p>
+<ul class="bulleted">
+    <li><a href="http://exponent.fm/episode-106-to-be-an-outlaw/">Бен Томпсон про удаление Убер Апп и критику Эппл</a></li>
+    <li><a href="http://www.theverge.com/2017/2/28/14760400/iphone-8-2017-rumors-usb-c-lightning">Слухи про USB-C в следующем айФоне</a></li>
+    <li><img src="http://thedimka.com/i/thailand-electrical-outlet-531.png" width="531" height="350" border="0"><br>Электрические розетки в Тайланде подойдут и для американских вилок и для европейских</li>
+    <li><a href="https://vimeo.com/36128360">Джонатан Хайдт рассказывает о недопонимании в обществе между консерваторами и либералами</a></li>
+    <li><a href="http://www.everydayjourneypodcast.com/">Новый подкаст Василия - Everyday Journey Podcast</a></li>
+    <li><a href="https://www.youtube.com/watch?v=y3qkf3bajd4">Юрий Безменов: Deception Was My Job</a></li>
+</ul>
+<p>
+<a href="https://itunes.apple.com/podcast/tehnologii-i-zizn/id1013700516?mt=2">наш подкаст в директории подкастов Эппл</a>
+<br>и <a href="https://overcast.fm/itunes1013700516">в Оверкасте</a>]]></itunes:subtitle>
+            <itunesu:category itunesu:code="112" />
+            <enclosure url="http://feeds.soundcloud.com/stream/298312917-techlifepodcast-techlife-22-2017-03-17.mp3" type="audio/mpeg" length="31940000" />
+            <guid>http://feeds.soundcloud.com/stream/298312917-techlifepodcast-techlife-22-2017-03-17.mp3</guid>
+            <itunes:duration>H:MM:SS</itunes:duration>
+            <itunes:explicit>clean</itunes:explicit>
+            <pubDate>Fri, 17 Mar 2017 00:05:00 EST</pubDate>
+        </item>
         
+<!-- разделитель эпизодов -->      
+   
         <pubDate>Wed, 14 Dec 2016 00:05:00 EST</pubDate>
         <title>Технологии и жизнь</title>
         <itunes:author>Techlife Syndicate</itunes:author>
