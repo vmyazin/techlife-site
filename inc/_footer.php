@@ -3,7 +3,7 @@
     <div class="container">
       <div class="row">
         <div class="text-center">
-          Techlife Syndicate. Copyright &copy; 2016</footer>
+          Techlife Syndicate. Copyright &copy; 2015-2017</footer>
         </div>
       </div> <!-- /row -->
     </div>
