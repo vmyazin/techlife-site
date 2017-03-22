@@ -21,5 +21,5 @@ siteData.episodes = [
   {id: 19, title: 'Взрывающиеся телефоны, Трамп и о Риге', file: 'Episodes/TechLife-19-2016-11-15.mp3', dateLang: '15 ноября 2016'},
   {id: 20, title: 'Удобные разъемы, редактирование речи и ложные новости', file: 'Episodes/TechLife-20-2016-11-29.mp3', dateLang: '29 ноября 2016'},
   {id: 21, title: 'Мир дикого запада, Польши и неприбытие инопланетян', file: 'http://feeds.soundcloud.com/stream/298312917-techlifepodcast-techlife-21-2016-12-14.mp3', dateLang: '14 декабря 2016'},
-  {id: 22, title: 'Сложности с айФомнами, путешествия, подкаст и неновости', file: 'http://feeds.soundcloud.com/stream/298312917-techlifepodcast-techlife-22-2017-03-17.mp3', dateLang: '17 марта 2017'}
+  {id: 22, title: 'Сложности с айФомнами, путешествия, подкаст и неновости', file: 'http://feeds.soundcloud.com/stream/313556027-techlifepodcast-episode-22-march-17-2017.mp3', dateLang: '17 марта 2017'}
 ];
