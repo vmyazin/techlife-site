@@ -22,5 +22,5 @@ siteData.episodes = [
   {id: 20, title: 'Удобные разъемы, редактирование речи и ложные новости', file: 'Episodes/TechLife-20-2016-11-29.mp3', dateLang: '29 ноября 2016'},
   {id: 21, title: 'Мир дикого запада, Польши и неприбытие инопланетян', file: 'http://feeds.soundcloud.com/stream/298312917-techlifepodcast-techlife-21-2016-12-14.mp3', dateLang: '14 декабря 2016'},
   {id: 22, title: 'Сложности с айФомнами, путешествия, подкаст и неновости', file: 'http://feeds.soundcloud.com/stream/313556027-techlifepodcast-episode-22-march-17-2017.mp3', dateLang: '17 марта 2017'},
-  {id: 23, title: 'Разные страны, уберы и айфоны', file: 'http://feeds.soundcloud.com/stream/320546738-techlifepodcast-episode-23-april-28-2017.mp3', dateLang: '28 апреля 2017'}
+  {id: 23, title: 'Трудности и радости Хомо Сапиенса в путешествовиях', file: 'http://feeds.soundcloud.com/stream/320546738-techlifepodcast-episode-23-april-28-2017.mp3', dateLang: '28 апреля 2017'}
 ];
