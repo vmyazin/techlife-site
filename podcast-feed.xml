@@ -25,6 +25,54 @@
         
 <!-- начало эпизодов --> 
       
+        <pubDate>Mon, 3 Jul 2017 00:05:00 EST</pubDate>
+        <title>Технологии и жизнь</title>
+        <itunes:author>Techlife Syndicate</itunes:author>
+        <description>Интернет радио-программа про современные технологии, их влияние на нашу жизнь, и прочие мысли. Ведущие: Дмитрий Здоров и Василий Мязин.</description>
+        <itunes:summary>Интернет радио-программа про современные технологии, их влияние на нашу жизнь, и прочие мысли.</itunes:summary>
+        <itunes:subtitle>Ведущие: Дмитрий Здоров и Василий Мязин.</itunes:subtitle>
+        <lastBuildDate>Mon, 3 Jul 2017 00:05:00 EST</lastBuildDate>
+        <item>
+            <title>#24: Колумбия и Мексика</title>
+            <description><![CDATA[<p>
+Колумбия и Мексика<br>
+Василий вернулся из проехался по Латинской Америке
+</p>
+<p><b>Ссылки к эпизоду:</b></p>
+<ul class="bulleted">
+    <li><a href="https://www.youtube.com/user/samaza">Сэм и его канал на Ютюбе LifeAFAR</a></li>
+    <li><a href="http://www.claro.com.co/personas/">Кларо</a></li>
+    <li><a href="https://daringfireball.net/thetalkshow/2017/06/08/ep-193">WWDC 2017 Шоу Джона Грубера</a></li>
+</ul>
+<p>
+<a href="https://itunes.apple.com/podcast/tehnologii-i-zizn/id1013700516?mt=2">наш подкаст в директории подкастов Эппл</a>
+<br>и <a href="https://overcast.fm/itunes1013700516">в Оверкасте</a>
+</p>
+]]></description>
+            <itunes:summary>Колумбия и Мексика http://techlifepodcast.com/episodes/24</itunes:summary>
+            <itunes:subtitle><![CDATA[<p>
+Колумбия и Мексика<br>
+Василий вернулся из проехался по Латинской Америке
+</p>
+<p><b>Ссылки к эпизоду:</b></p>
+<ul class="bulleted">
+    <li><a href="https://www.youtube.com/user/samaza">Сэм и его канал на Ютюбе LifeAFAR</a></li>
+    <li><a href="http://www.claro.com.co/personas/">Кларо</a></li>
+    <li><a href="https://daringfireball.net/thetalkshow/2017/06/08/ep-193">WWDC 2017 Шоу Джона Грубера</a></li>
+</ul>
+<p>
+<a href="https://itunes.apple.com/podcast/tehnologii-i-zizn/id1013700516?mt=2">наш подкаст в директории подкастов Эппл</a>
+<br>и <a href="https://overcast.fm/itunes1013700516">в Оверкасте</a>
+</p>]]></itunes:subtitle>
+            <itunesu:category itunesu:code="112" />
+            <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/333532301-techlifepodcast-episode-24-july-3-2017.mp3" length="43880576"/>
+            <guid>http://feeds.soundcloud.com/stream/333532301-techlifepodcast-episode-24-july-3-2017.mp3</guid>
+            <itunes:duration>H:MM:SS</itunes:duration>
+            <itunes:explicit>clean</itunes:explicit>
+            <pubDate>Mon, 3 Jul 2017 00:05:00 EST</pubDate>
+        </item>
+        
+<!-- разделитель эпизодов -->            
         <pubDate>Sun, 28 Apr 2017 00:05:00 EST</pubDate>
         <title>Технологии и жизнь</title>
         <itunes:author>Techlife Syndicate</itunes:author>
