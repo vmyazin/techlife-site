@@ -18,12 +18,129 @@
         <itunes:category text="Technology">
             <itunes:category text="Gadgets" />
         </itunes:category>
-        <itunes:keywords>technology, podcast, russian, apple, google</itunes:keywords>
+        <itunes:keywords>technology, podcast, russian, apple, google, travel</itunes:keywords>
         <itunes:explicit>no</itunes:explicit>
         <itunes:image href="http://techlifepodcast.com/img/techlife-artwork-1400x1400.jpg" />
         <atom:link href="http://techlifepodcast.com/podcast-feed.xml" rel="self" type="application/rss+xml" />
         
 <!-- начало эпизодов --> 
+      
+        <pubDate>Tue, 5 Dec 2017 00:05:00 EST</pubDate>
+        <title>Технологии и жизнь</title>
+        <itunes:author>Techlife Syndicate</itunes:author>
+        <description>Интернет радио-программа про современные технологии, их влияние на нашу жизнь, и прочие мысли. Ведущие: Дмитрий Здоров и Василий Мязин.</description>
+        <itunes:summary>Интернет радио-программа про современные технологии, их влияние на нашу жизнь, и прочие мысли.</itunes:summary>
+        <itunes:subtitle>Ведущие: Дмитрий Здоров и Василий Мязин.</itunes:subtitle>
+        <lastBuildDate>Tue, 5 Dec 2017 00:05:00 EST</lastBuildDate>
+        <item>
+            <title>#26: Рассказы об Азии через Эирподс</title>
+            <description><![CDATA[<p>
+<br>Рассказы об Азии через Эирподс
+</p>
+<p><b>Ссылки к эпизоду:</b></p>
+<ul class="bulleted">
+    <li><a href="https://www.apple.com/lae/airpods/">Эппл Эирподс</a></li>
+    <li><a href="https://www.xmpow.com/mpow-overear-headphone.html">Наушники Mpow</a></li>
+	<a href="http://amzn.to/2kMCxqe">на амазаоне</a></li>
+    <li><a href="https://www.detour.com">Детур</a></li>
+<p>
+<a href="https://itunes.apple.com/podcast/tehnologii-i-zizn/id1013700516?mt=2">наш подкаст в директории подкастов Эппл</a>
+<br>и <a href="https://overcast.fm/itunes1013700516">в Оверкасте</a>
+</p>
+]]></description>
+            <itunes:summary>Рассказы об Азии через Эирподс http://techlifepodcast.com/episodes/26</itunes:summary>
+            <itunes:subtitle><![CDATA[<p>
+<br>Рассказы об Азии через Эирподс
+</p>
+<p><b>Ссылки к эпизоду:</b></p>
+<ul class="bulleted">
+    <li><a href="https://www.apple.com/lae/airpods/">Эппл Эирподс</a></li>
+    <li><a href="https://www.xmpow.com/mpow-overear-headphone.html">Наушники Mpow</a></li>
+	<a href="http://amzn.to/2kMCxqe">на амазаоне</a></li>
+    <li><a href="https://www.detour.com">Детур</a></li>
+<p>
+<a href="https://itunes.apple.com/podcast/tehnologii-i-zizn/id1013700516?mt=2">наш подкаст в директории подкастов Эппл</a>
+<br>и <a href="https://overcast.fm/itunes1013700516">в Оверкасте</a>
+</p>]]></itunes:subtitle>
+            <itunesu:category itunesu:code="112" />
+            <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/367668137-techlifepodcast-26-rasskazy-ob-azii-cherez-eirpods.mp3" length="33383905"/>
+            <guid>http://feeds.soundcloud.com/stream/367668137-techlifepodcast-26-rasskazy-ob-azii-cherez-eirpods.mp3</guid>
+            <itunes:duration>H:MM:SS</itunes:duration>
+            <itunes:explicit>clean</itunes:explicit>
+            <pubDate>Tue, 5 Dec 2017 00:05:00 EST</pubDate>
+        </item>
+        
+<!-- разделитель эпизодов -->            
+      
+      
+        <pubDate>Sun, 24 Sep 2017 00:05:00 EST</pubDate>
+        <title>Технологии и жизнь</title>
+        <itunes:author>Techlife Syndicate</itunes:author>
+        <description>Интернет радио-программа про современные технологии, их влияние на нашу жизнь, и прочие мысли. Ведущие: Дмитрий Здоров и Василий Мязин.</description>
+        <itunes:summary>Интернет радио-программа про современные технологии, их влияние на нашу жизнь, и прочие мысли.</itunes:summary>
+        <itunes:subtitle>Ведущие: Дмитрий Здоров и Василий Мязин.</itunes:subtitle>
+        <lastBuildDate>Sun, 24 Sep 2017 00:05:00 EST</lastBuildDate>
+        <item>
+            <title>#25: Разматываем идеологии как наушники</title>
+            <description><![CDATA[<p>
+<br>Разматываем идеологии как наушники
+Ведь от того как смотать наушники, и свобода слова зависит.
+</p>
+<p><b>Ссылки к эпизоду:</b></p>
+<ul class="bulleted">
+    <li>📺 <a href="https://www.youtube.com/watch?v=utfbE3_uAMA">Добавление разъема для наушников в айФон 7</a></li>
+    <li>📺 <a href="https://www.youtube.com/watch?v=E696MxK1Qug">Как правильно смотать наушники</a></li>
+    <li><a href="http://www.loopinsight.com/2015/07/22/apple-music-is-a-nightmare-and-im-done-with-it/">Проблема Далримпла с Эппл Мьюзик</a></li>
+    <li><img src="http://thedimka.com/i/broken_compilation_display_in_itunes-531.png" width="531" height="398" border="0"><br>Айтюнз не правильно показывает сборники</li>
+    <li>📺 <a href="https://www.youtube.com/watch?v=W8_Kfjo3VjU">Перегрузите вебсервер</a></li>
+    <li><a href="http://www.bombaestereoayo.com/">Бомба эстерио</a></li>
+    <li><a href="http://www.murcof.com">Муркоф</a></li>
+    <li><a href="https://ru.wikiquote.org/wiki/Уинстон_Черчилль##.D0.9E.D1.88.D0.B8.D0.B1.D0.BE.D1.87.D0.BD.D0.BE_.D0.BF.D1.80.D0.B8.D0.BF.D0.B8.D1.81.D1.8B.D0.B2.D0.B0.D0.B5.D0.BC.D1.8B.D0.B5">Лже-цитата: если вы в 25 лет вы не либерал и если вы в 35 лет не консерватор у вас нет мозгов</a></li>
+    <li><a href="https://medium.com/@Cernovich/full-james-damore-memo-uncensored-memo-with-charts-and-cites-339f3d2d05f">Документ который написал Джеймс Дамор</a></li>
+    <li><a href="http://dailycaller.com/2017/08/01/google-and-youtube-ban-prof-who-refused-to-use-gender-neutral-pronouns/">Джордан Петерсон и его заблокированный gmail аккаунт</a></li>
+    <li><a href="https://ru.wikipedia.org/wiki/Закон_Годвина">Закон Годвина</a></li>
+    <li><img src="http://thedimka.com/i/antifa-berkeley-aug-2017-531.jpg" width="531" height="260" border="0"><br>Антифа в Беркли</li>
+    <li><a href="https://blog.cloudflare.com/why-we-terminated-daily-stormer/">Клаудфлеир меняет правила пользования</a></li>
+</ul>
+<p>
+<a href="https://itunes.apple.com/podcast/tehnologii-i-zizn/id1013700516?mt=2">наш подкаст в директории подкастов Эппл</a>
+<br>и <a href="https://overcast.fm/itunes1013700516">в Оверкасте</a>
+</p>
+]]></description>
+            <itunes:summary>Разматываем идеологии как наушники http://techlifepodcast.com/episodes/25</itunes:summary>
+            <itunes:subtitle><![CDATA[<p>
+<br>Разматываем идеологии как наушники
+Ведь от того как смотать наушники, и свобода слова зависит.
+</p>
+<p><b>Ссылки к эпизоду:</b></p>
+<ul class="bulleted">
+    <li>📺 <a href="https://www.youtube.com/watch?v=utfbE3_uAMA">Добавление разъема для наушников в айФон 7</a></li>
+    <li>📺 <a href="https://www.youtube.com/watch?v=E696MxK1Qug">Как правильно смотать наушники</a></li>
+    <li><a href="http://www.loopinsight.com/2015/07/22/apple-music-is-a-nightmare-and-im-done-with-it/">Проблема Далримпла с Эппл Мьюзик</a></li>
+    <li><img src="http://thedimka.com/i/broken_compilation_display_in_itunes-531.png" width="531" height="398" border="0"><br>Айтюнз не правильно показывает сборники</li>
+    <li>📺 <a href="https://www.youtube.com/watch?v=W8_Kfjo3VjU">Перегрузите вебсервер</a></li>
+    <li><a href="http://www.bombaestereoayo.com/">Бомба эстерио</a></li>
+    <li><a href="http://www.murcof.com">Муркоф</a></li>
+    <li><a href="https://ru.wikiquote.org/wiki/Уинстон_Черчилль##.D0.9E.D1.88.D0.B8.D0.B1.D0.BE.D1.87.D0.BD.D0.BE_.D0.BF.D1.80.D0.B8.D0.BF.D0.B8.D1.81.D1.8B.D0.B2.D0.B0.D0.B5.D0.BC.D1.8B.D0.B5">Лже-цитата: если вы в 25 лет вы не либерал и если вы в 35 лет не консерватор у вас нет мозгов</a></li>
+    <li><a href="https://medium.com/@Cernovich/full-james-damore-memo-uncensored-memo-with-charts-and-cites-339f3d2d05f">Документ который написал Джеймс Дамор</a></li>
+    <li><a href="http://dailycaller.com/2017/08/01/google-and-youtube-ban-prof-who-refused-to-use-gender-neutral-pronouns/">Джордан Петерсон и его заблокированный gmail аккаунт</a></li>
+    <li><a href="https://ru.wikipedia.org/wiki/Закон_Годвина">Закон Годвина</a></li>
+    <li><img src="http://thedimka.com/i/antifa-berkeley-aug-2017-531.jpg" width="531" height="260" border="0"><br>Антифа в Беркли</li>
+    <li><a href="https://blog.cloudflare.com/why-we-terminated-daily-stormer/">Клаудфлеир меняет правила пользования</a></li>
+</ul>
+<p>
+<a href="https://itunes.apple.com/podcast/tehnologii-i-zizn/id1013700516?mt=2">наш подкаст в директории подкастов Эппл</a>
+<br>и <a href="https://overcast.fm/itunes1013700516">в Оверкасте</a>
+</p>]]></itunes:subtitle>
+            <itunesu:category itunesu:code="112" />
+            <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/345757588-techlifepodcast-episode-25.mp3" length="57542478"/>
+            <guid>http://feeds.soundcloud.com/stream/345757588-techlifepodcast-episode-25.mp3</guid>
+            <itunes:duration>H:MM:SS</itunes:duration>
+            <itunes:explicit>clean</itunes:explicit>
+            <pubDate>Sun, 24 Sep 2017 00:05:00 EST</pubDate>
+        </item>
+        
+<!-- разделитель эпизодов -->            
       
         <pubDate>Mon, 3 Jul 2017 00:05:00 EST</pubDate>
         <title>Технологии и жизнь</title>
