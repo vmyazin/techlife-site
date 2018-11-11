@@ -25,6 +25,68 @@
         
 <!-- начало эпизодов --> 
       
+        <pubDate>Thu, 1 Nov 2018 00:05:00 EST</pubDate>
+        <title>Технологии и жизнь</title>
+        <itunes:author>Techlife Syndicate</itunes:author>
+        <description>Интернет радио-программа про современные технологии, их влияние на нашу жизнь, и прочие мысли. Ведущие: Дмитрий Здоров и Василий Мязин.</description>
+        <itunes:summary>Интернет радио-программа про современные технологии, их влияние на нашу жизнь, и прочие мысли.</itunes:summary>
+        <itunes:subtitle>Ведущие: Дмитрий Здоров и Василий Мязин.</itunes:subtitle>
+        <lastBuildDate>Thu, 1 Dec 2018 00:05:00 EST</lastBuildDate>
+        <item>
+            <title>#27: Телефон, Телеграф, Скайпъ</title>
+            <description><![CDATA[<p>
+<br>Телефон, Телеграф, Скайпъ
+</p>
+<p><b>Ссылки к эпизоду:</b></p>
+<ul class="bulleted">
+    <li><a href="https://www.skype.com">Скайп</a></li>
+    <li><a href="https://telegram.org/">Телеграм</a></li> 
+    <li><a href="https://www.whatsapp.com/">Вотсапп</a></li>
+    <li><a href="https://support.apple.com/explore/messages">Эппл месседжес</a> (ранее айМесседж)</li>
+    <li><a href="https://www.messenger.com/">Фейсбук мессенджер</a></li>
+    <li><a href="https://hangouts.google.com/">Гугл хенгаутс</a> (ранее Гугл Ток)</li>
+    <li><a href="https://slack.com/">Слек</a></li>
+    <li><a href="https://www.wechat.com/ru/">ВиЧат</a></li>    
+    <li><a href="https://line.me/">Лайн</a></li>
+    <li><a href="https://www.viber.com/">Вайбер</a></li>
+    <li><a href="https://signal.org//">Сигнал</a></li>
+</ul>
+<p>
+<a href="https://itunes.apple.com/podcast/tehnologii-i-zizn/id1013700516?mt=2">наш подкаст в директории подкастов Эппл</a>
+<br>и <a href="https://overcast.fm/itunes1013700516">в Оверкасте</a>
+</p>
+]]></description>
+            <itunes:summary>Телефон, Телеграф, Скайпъ http://techlifepodcast.com/episodes/27</itunes:summary>
+            <itunes:subtitle><![CDATA[<p>
+<br>Телефон, Телеграф, Скайпъ
+</p>
+<p><b>Ссылки к эпизоду:</b></p>
+<ul class="bulleted">
+    <li><a href="https://www.skype.com">Скайп</a></li>
+    <li><a href="https://telegram.org/">Телеграм</a></li> 
+    <li><a href="https://www.whatsapp.com/">Вотсапп</a></li>
+    <li><a href="https://support.apple.com/explore/messages">Эппл месседжес</a> (ранее айМесседж)</li>
+    <li><a href="https://www.messenger.com/">Фейсбук мессенджер</a></li>
+    <li><a href="https://hangouts.google.com/">Гугл хенгаутс</a> (ранее Гугл Ток)</li>
+    <li><a href="https://slack.com/">Слек</a></li>
+    <li><a href="https://www.wechat.com/ru/">ВиЧат</a></li>    
+    <li><a href="https://line.me/">Лайн</a></li>
+    <li><a href="https://www.viber.com/">Вайбер</a></li>
+    <li><a href="https://signal.org//">Сигнал</a></li>
+</ul>
+<p>
+<a href="https://itunes.apple.com/podcast/tehnologii-i-zizn/id1013700516?mt=2">наш подкаст в директории подкастов Эппл</a>
+<br>и <a href="https://overcast.fm/itunes1013700516">в Оверкасте</a>
+</p>]]></itunes:subtitle>
+            <itunesu:category itunesu:code="112" />
+            <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/525021030-techlifepodcast-episode-27-november-1-2018.mp3" length="38285591"/>
+            <guid>http://feeds.soundcloud.com/stream/525021030-techlifepodcast-episode-27-november-1-2018.mp3</guid>
+            <itunes:duration>H:MM:SS</itunes:duration>
+            <itunes:explicit>clean</itunes:explicit>
+            <pubDate>Thu, 1 Nov 2018 00:05:00 EST</pubDate>
+        </item>
+        
+<!-- разделитель эпизодов -->        
         <pubDate>Tue, 5 Dec 2017 00:05:00 EST</pubDate>
         <title>Технологии и жизнь</title>
         <itunes:author>Techlife Syndicate</itunes:author>

@@ -25,6 +25,7 @@ siteData.episodes = [
   {id: 23, title: 'Трудности и радости Хомо Сапиенса в путешествиях', file: 'http://feeds.soundcloud.com/stream/320546738-techlifepodcast-episode-23-april-28-2017.mp3', dateLang: '28 апреля 2017'},
   {id: 24, title: 'Колумбия и Мексика', file: 'http://feeds.soundcloud.com/stream/333532301-techlifepodcast-episode-24-july-3-2017.mp3', dateLang: '3 июля 2017'},
   {id: 25, title: 'Разматываем идеологии как наушники', file: 'http://feeds.soundcloud.com/stream/345757588-techlifepodcast-episode-25.mp3', dateLang: '24 сентября 2017'},
-  {id: 26, title: 'Рассказы об Азии через Эирподс', file: 'http://feeds.soundcloud.com/stream/367668137-techlifepodcast-26-rasskazy-ob-azii-cherez-eirpods.mp3', dateLang: '5 декабря 2017'}
+  {id: 26, title: 'Рассказы об Азии через Эирподс', file: 'http://feeds.soundcloud.com/stream/367668137-techlifepodcast-26-rasskazy-ob-azii-cherez-eirpods.mp3', dateLang: '5 декабря 2017'},
+  {id: 27, title: 'Телефон, Телеграф, Скайпъ', file: 'http://feeds.soundcloud.com/stream/525021030-techlifepodcast-episode-27-november-1-2018.mp3', dateLang: '1 Ноября 2018'}
 
 ];
