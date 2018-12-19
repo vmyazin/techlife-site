@@ -20,12 +20,13 @@ siteData.episodes = [
   {id: 18, title: 'Защищают ли авторские права от врагов из космоса', file: 'Episodes/TechLife-18-2016-07-11.mp3', dateLang: '11 июля 2016'},
   {id: 19, title: 'Взрывающиеся телефоны, Трамп и о Риге', file: 'Episodes/TechLife-19-2016-11-15.mp3', dateLang: '15 ноября 2016'},
   {id: 20, title: 'Удобные разъемы, редактирование речи и ложные новости', file: 'Episodes/TechLife-20-2016-11-29.mp3', dateLang: '29 ноября 2016'},
-  {id: 21, title: 'Мир дикого запада, Польши и неприбытие инопланетян', file: 'http://feeds.soundcloud.com/stream/298312917-techlifepodcast-techlife-21-2016-12-14.mp3', dateLang: '14 декабря 2016'},
-  {id: 22, title: 'Сложности с айФомнами, путешествия, подкаст и неновости', file: 'http://feeds.soundcloud.com/stream/313556027-techlifepodcast-episode-22-march-17-2017.mp3', dateLang: '17 марта 2017'},
-  {id: 23, title: 'Трудности и радости Хомо Сапиенса в путешествиях', file: 'http://feeds.soundcloud.com/stream/320546738-techlifepodcast-episode-23-april-28-2017.mp3', dateLang: '28 апреля 2017'},
-  {id: 24, title: 'Колумбия и Мексика', file: 'http://feeds.soundcloud.com/stream/333532301-techlifepodcast-episode-24-july-3-2017.mp3', dateLang: '3 июля 2017'},
-  {id: 25, title: 'Разматываем идеологии как наушники', file: 'http://feeds.soundcloud.com/stream/345757588-techlifepodcast-episode-25.mp3', dateLang: '24 сентября 2017'},
-  {id: 26, title: 'Рассказы об Азии через Эирподс', file: 'http://feeds.soundcloud.com/stream/367668137-techlifepodcast-26-rasskazy-ob-azii-cherez-eirpods.mp3', dateLang: '5 декабря 2017'},
-  {id: 27, title: 'Телефон, Телеграф, Скайпъ', file: 'http://feeds.soundcloud.com/stream/525021030-techlifepodcast-episode-27-november-1-2018.mp3', dateLang: '1 Ноября 2018'}
+  {id: 21, title: 'Мир дикого запада, Польши и неприбытие инопланетян', file: 'Episodes/298312917-techlifepodcast-techlife-21-2016-12-14.mp3', dateLang: '14 декабря 2016'},
+  {id: 22, title: 'Сложности с айФомнами, путешествия, подкаст и неновости', file: 'Episodes/313556027-techlifepodcast-episode-22-march-17-2017.mp3', dateLang: '17 марта 2017'},
+  {id: 23, title: 'Трудности и радости Хомо Сапиенса в путешествиях', file: 'Episodes/320546738-techlifepodcast-episode-23-april-28-2017.mp3', dateLang: '28 апреля 2017'},
+  {id: 24, title: 'Колумбия и Мексика', file: 'Episodes/333532301-techlifepodcast-episode-24-july-3-2017.mp3', dateLang: '3 июля 2017'},
+  {id: 25, title: 'Разматываем идеологии как наушники', file: 'Episodes/345757588-techlifepodcast-episode-25.mp3', dateLang: '24 сентября 2017'},
+  {id: 26, title: 'Рассказы об Азии через Эирподс', file: 'Episodes/367668137-techlifepodcast-26-rasskazy-ob-azii-cherez-eirpods.mp3', dateLang: '5 декабря 2017'},
+  {id: 27, title: 'Телефон, Телеграф, Скайпъ', file: 'http://feeds.soundcloud.com/stream/525021030-techlifepodcast-episode-27-november-1-2018.mp3', dateLang: '1 Ноября 2018'},
+  {id: 28, title: 'Замки в облаках', file: 'http://feeds.soundcloud.com/stream/546816954-techlifepodcast-episode-28-zamki-v-oblakakh.mp3', dateLang: '12 Декабря 2018'}
 
 ];
