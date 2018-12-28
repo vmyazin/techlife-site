@@ -11,10 +11,14 @@
             <title>Технологии и жизнь - подкаст</title>
             <link>http://techlifepodcast.com/</link>
         </image>
+        <description>Интернет радио-программа про современные технологии, их влияние на нашу жизнь, и прочие мысли. Ведущие: Дмитрий Здоров и Василий Мязин.</description>
+        <itunes:summary>Интернет радио-программа про современные технологии, их влияние на нашу жизнь, и прочие мысли.</itunes:summary>
+        <itunes:subtitle>Ведущие: Дмитрий Здоров и Василий Мязин.</itunes:subtitle>
         <itunes:owner>
             <itunes:name>Vasily Myazin and Dmitri Zdorov</itunes:name>
             <itunes:email>talk@techlifepodcast.com</itunes:email>
         </itunes:owner>
+        <itunes:author>Vasily Myazin and Dmitri Zdorov</itunes:author>
         <itunes:category text="Technology">
             <itunes:category text="Gadgets" />
         </itunes:category>
@@ -22,13 +26,10 @@
         <itunes:explicit>no</itunes:explicit>
         <itunes:image href="http://techlifepodcast.com/img/techlife-artwork-1400x1400.jpg" />
         <atom:link href="http://techlifepodcast.com/podcast-feed.xml" rel="self" type="application/rss+xml" />
+        <lastBuildDate>Wed, 12 Dec 2018 00:05:00 EST</lastBuildDate>
         
 <!-- начало эпизодов --> 
       
-        <description>Интернет радио-программа про современные технологии, их влияние на нашу жизнь, и прочие мысли. Ведущие: Дмитрий Здоров и Василий Мязин.</description>
-        <itunes:summary>Интернет радио-программа про современные технологии, их влияние на нашу жизнь, и прочие мысли.</itunes:summary>
-        <itunes:subtitle>Ведущие: Дмитрий Здоров и Василий Мязин.</itunes:subtitle>
-        <lastBuildDate>Wed, 12 Dec 2018 00:05:00 EST</lastBuildDate>
         <item>
             <title>#28: Замки в облаках</title>
             <description><![CDATA[<p>
@@ -89,9 +90,6 @@
         
 <!-- разделитель эпизодов -->        
       
-        <description>Интернет радио-программа про современные технологии, их влияние на нашу жизнь, и прочие мысли. Ведущие: Дмитрий Здоров и Василий Мязин.</description>
-        <itunes:summary>Интернет радио-программа про современные технологии, их влияние на нашу жизнь, и прочие мысли.</itunes:summary>
-        <itunes:subtitle>Ведущие: Дмитрий Здоров и Василий Мязин.</itunes:subtitle>
         <item>
             <title>#27: Телефон, Телеграф, Скайпъ</title>
             <description><![CDATA[<p>
@@ -147,9 +145,6 @@
         </item>
         
 <!-- разделитель эпизодов -->        
-        <description>Интернет радио-программа про современные технологии, их влияние на нашу жизнь, и прочие мысли. Ведущие: Дмитрий Здоров и Василий Мязин.</description>
-        <itunes:summary>Интернет радио-программа про современные технологии, их влияние на нашу жизнь, и прочие мысли.</itunes:summary>
-        <itunes:subtitle>Ведущие: Дмитрий Здоров и Василий Мязин.</itunes:subtitle>
         <item>
             <title>#26: Рассказы об Азии через Эирподс</title>
             <description><![CDATA[<p>
@@ -190,9 +185,6 @@
         
 <!-- разделитель эпизодов -->            
       
-        <description>Интернет радио-программа про современные технологии, их влияние на нашу жизнь, и прочие мысли. Ведущие: Дмитрий Здоров и Василий Мязин.</description>
-        <itunes:summary>Интернет радио-программа про современные технологии, их влияние на нашу жизнь, и прочие мысли.</itunes:summary>
-        <itunes:subtitle>Ведущие: Дмитрий Здоров и Василий Мязин.</itunes:subtitle>
         <item>
             <title>#25: Разматываем идеологии как наушники</title>
             <description><![CDATA[<p>
@@ -255,9 +247,6 @@
         
 <!-- разделитель эпизодов -->            
       
-        <description>Интернет радио-программа про современные технологии, их влияние на нашу жизнь, и прочие мысли. Ведущие: Дмитрий Здоров и Василий Мязин.</description>
-        <itunes:summary>Интернет радио-программа про современные технологии, их влияние на нашу жизнь, и прочие мысли.</itunes:summary>
-        <itunes:subtitle>Ведущие: Дмитрий Здоров и Василий Мязин.</itunes:subtitle>
         <item>
             <title>#24: Колумбия и Мексика</title>
             <description><![CDATA[<p>
@@ -299,9 +288,6 @@
         </item>
         
 <!-- разделитель эпизодов -->            
-        <description>Интернет радио-программа про современные технологии, их влияние на нашу жизнь, и прочие мысли. Ведущие: Дмитрий Здоров и Василий Мязин.</description>
-        <itunes:summary>Интернет радио-программа про современные технологии, их влияние на нашу жизнь, и прочие мысли.</itunes:summary>
-        <itunes:subtitle>Ведущие: Дмитрий Здоров и Василий Мязин.</itunes:subtitle>
         <item>
             <title>#23: Трудности и радости Хомо Сапиенса в путешествиях</title>
             <description><![CDATA[<p>
@@ -345,9 +331,6 @@
         </item>
         
 <!-- разделитель эпизодов -->      
-        <description>Интернет радио-программа про современные технологии, их влияние на нашу жизнь, и прочие мысли. Ведущие: Дмитрий Здоров и Василий Мязин.</description>
-        <itunes:summary>Интернет радио-программа про современные технологии, их влияние на нашу жизнь, и прочие мысли.</itunes:summary>
-        <itunes:subtitle>Ведущие: Дмитрий Здоров и Василий Мязин.</itunes:subtitle>
         <item>
             <title>#22: Сложности с айФонами, путешествия, новый подкаст Василия и неновости</title>
             <description><![CDATA[<p>
@@ -390,9 +373,6 @@
         </item>
         
 <!-- разделитель эпизодов --> 
-        <description>Интернет радио-программа про современные технологии, их влияние на нашу жизнь, и прочие мысли. Ведущие: Дмитрий Здоров и Василий Мязин.</description>
-        <itunes:summary>Интернет радио-программа про современные технологии, их влияние на нашу жизнь, и прочие мысли.</itunes:summary>
-        <itunes:subtitle>Ведущие: Дмитрий Здоров и Василий Мязин.</itunes:subtitle>
         <item>
             <title>#21: Мир дикого запада, Польши и неприбытие инопланетян</title>
             <description><![CDATA[<p>
