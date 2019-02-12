@@ -1,418 +1,189 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
-    <channel>
-        <link>http://techlifepodcast.com/</link>
-        <language>ru</language>
-        <copyright>&#xA9;2018</copyright>
-        <webMaster>talk@techlifepodcast.com (Vasily Myazin and Dmitri Zdorov)</webMaster>
-        <managingEditor>talk@techlifepodcast.com (Vasily Myazin and Dmitri Zdorov)</managingEditor>
-        <image>
-            <url>http://techlifepodcast.com/img/techlife-artwork-1400x1400.jpg</url>
-            <title>Технологии и жизнь - подкаст</title>
-            <link>http://techlifepodcast.com/</link>
-        </image>
-        <description>Интернет радио-программа про современные технологии, их влияние на нашу жизнь, и прочие мысли. Ведущие: Дмитрий Здоров и Василий Мязин.</description>
-        <itunes:summary>Интернет радио-программа про современные технологии, их влияние на нашу жизнь, и прочие мысли.</itunes:summary>
-        <itunes:subtitle>Ведущие: Дмитрий Здоров и Василий Мязин.</itunes:subtitle>
-        <itunes:owner>
-            <itunes:name>Vasily Myazin and Dmitri Zdorov</itunes:name>
-            <itunes:email>talk@techlifepodcast.com</itunes:email>
-        </itunes:owner>
-        <itunes:author>Vasily Myazin and Dmitri Zdorov</itunes:author>
-        <itunes:category text="Technology">
-            <itunes:category text="Gadgets" />
-        </itunes:category>
-        <itunes:keywords>technology, podcast, russian, apple, google, travel</itunes:keywords>
-        <itunes:explicit>no</itunes:explicit>
-        <itunes:image href="http://techlifepodcast.com/img/techlife-artwork-1400x1400.jpg" />
-        <atom:link href="http://techlifepodcast.com/podcast-feed.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Wed, 12 Dec 2018 00:05:00 EST</lastBuildDate>
-        
-<!-- начало эпизодов --> 
-      
-        <item>
-            <title>#28: Замки в облаках</title>
-            <description><![CDATA[<p>
-<br>Замки в облаках
-<br>Или о том как надёжно, зашифрованно, безопасно хранить своди данные в облаках или разных хранилищах файлов.
-</p>
-<p><b>Ссылки к эпизоду:</b></p>
-<ul class="bulleted">
-    <li><a href="https://dropbox.com">Dropbox</a> (open new account <a href="https://db.tt/UlYxDXer">new account</a>)</li>
-    <li><a href="https://box.com/">Box.com</a></li> 
-    <li><a href="https://google.com/drive/">Google Drive</a></li>
-    <li>Apple <a href="https://www.icloud.com/#iclouddrive">iCloudDrive</a> и <a href="https://support.apple.com/en-us/HT201250">Time Machine</a></li>
-    <li><a href="https://mega.nz/">mega.nz</a></li>
-    <li><a href="https://onedrive.live.com/">Microsoft OneDrive</a></li>
-    <li><a href="https://disk.yandex.ru/">Яндекс Диск</a></li>
-    <li><a href="https://secure.backblaze.com/r/0115bz">Backblaze</a> резервное копия в облаке</li>    
-    <li><a href="https://www.egnyte.com/">Egnyte</a> решения для корпораций</li>
-    <li><a href="https://cloudmounter.net/">Cloud Mounter</a></li>
-    <li><a href="https://www.sendspace.com/">sendspace.com</a></li>
-
-</ul>
-<p>
-<a href="https://itunes.apple.com/podcast/tehnologii-i-zizn/id1013700516?mt=2">наш подкаст в директории подкастов Эппл</a>
-<br>и <a href="https://overcast.fm/itunes1013700516">в Оверкасте</a>
-</p>
-]]></description>
-            <itunes:summary>Замки в облаках http://techlifepodcast.com/episodes/28</itunes:summary>
-            <itunes:subtitle><![CDATA[<p>
-<br>Замки в облаках
-<br>Или о том как надёжно, зашифрованно, безопасно хранить своди данные в облаках или разных хранилищах файлов.
-</p>
-<p><b>Ссылки к эпизоду:</b></p>
-<ul class="bulleted">
-    <li><a href="https://dropbox.com">Dropbox</a> (open new account <a href="https://db.tt/UlYxDXer">new account</a>)</li>
-    <li><a href="https://box.com/">Box.com</a></li> 
-    <li><a href="https://google.com/drive/">Google Drive</a></li>
-    <li>Apple <a href="https://www.icloud.com/#iclouddrive">iCloudDrive</a> и <a href="https://support.apple.com/en-us/HT201250">Time Machine</a></li>
-    <li><a href="https://mega.nz/">mega.nz</a></li>
-    <li><a href="https://onedrive.live.com/">Microsoft OneDrive</a></li>
-    <li><a href="https://disk.yandex.ru/">Яндекс Диск</a></li>
-    <li><a href="https://secure.backblaze.com/r/0115bz">Backblaze</a> резервное копия в облаке</li>    
-    <li><a href="https://www.egnyte.com/">Egnyte</a> решения для корпораций</li>
-    <li><a href="https://cloudmounter.net/">Cloud Mounter</a></li>
-    <li><a href="https://www.sendspace.com/">sendspace.com</a></li>
-
-</ul>
-<p>
-<a href="https://itunes.apple.com/podcast/tehnologii-i-zizn/id1013700516?mt=2">наш подкаст в директории подкастов Эппл</a>
-<br>и <a href="https://overcast.fm/itunes1013700516">в Оверкасте</a>
-</p>]]></itunes:subtitle>
-            <itunesu:category itunesu:code="112" />
-            <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/546816954-techlifepodcast-episode-28-zamki-v-oblakakh.mp3" length="36483409"/>
-            <guid>http://feeds.soundcloud.com/stream/546816954-techlifepodcast-episode-28-zamki-v-oblakakh.mp3</guid>
-            <itunes:duration>H:MM:SS</itunes:duration>
-            <itunes:explicit>clean</itunes:explicit>
-            <pubDate>Wed, 12 Dec 2018 00:05:00 EST</pubDate>
-        </item>
-        
-<!-- разделитель эпизодов -->        
-      
-        <item>
-            <title>#27: Телефон, Телеграф, Скайпъ</title>
-            <description><![CDATA[<p>
-<br>Телефон, Телеграф, Скайпъ
-</p>
-<p><b>Ссылки к эпизоду:</b></p>
-<ul class="bulleted">
-    <li><a href="https://www.skype.com">Скайп</a></li>
-    <li><a href="https://telegram.org/">Телеграм</a></li> 
-    <li><a href="https://www.whatsapp.com/">Вотсапп</a></li>
-    <li><a href="https://support.apple.com/explore/messages">Эппл месседжес</a> (ранее айМесседж)</li>
-    <li><a href="https://www.messenger.com/">Фейсбук мессенджер</a></li>
-    <li><a href="https://hangouts.google.com/">Гугл хенгаутс</a> (ранее Гугл Ток)</li>
-    <li><a href="https://slack.com/">Слек</a></li>
-    <li><a href="https://www.wechat.com/ru/">ВиЧат</a></li>    
-    <li><a href="https://line.me/">Лайн</a></li>
-    <li><a href="https://www.viber.com/">Вайбер</a></li>
-    <li><a href="https://signal.org//">Сигнал</a></li>
-</ul>
-<p>
-<a href="https://itunes.apple.com/podcast/tehnologii-i-zizn/id1013700516?mt=2">наш подкаст в директории подкастов Эппл</a>
-<br>и <a href="https://overcast.fm/itunes1013700516">в Оверкасте</a>
-</p>
-]]></description>
-            <itunes:summary>Телефон, Телеграф, Скайпъ http://techlifepodcast.com/episodes/27</itunes:summary>
-            <itunes:subtitle><![CDATA[<p>
-<br>Телефон, Телеграф, Скайпъ
-</p>
-<p><b>Ссылки к эпизоду:</b></p>
-<ul class="bulleted">
-    <li><a href="https://www.skype.com">Скайп</a></li>
-    <li><a href="https://telegram.org/">Телеграм</a></li> 
-    <li><a href="https://www.whatsapp.com/">Вотсапп</a></li>
-    <li><a href="https://support.apple.com/explore/messages">Эппл месседжес</a> (ранее айМесседж)</li>
-    <li><a href="https://www.messenger.com/">Фейсбук мессенджер</a></li>
-    <li><a href="https://hangouts.google.com/">Гугл хенгаутс</a> (ранее Гугл Ток)</li>
-    <li><a href="https://slack.com/">Слек</a></li>
-    <li><a href="https://www.wechat.com/ru/">ВиЧат</a></li>    
-    <li><a href="https://line.me/">Лайн</a></li>
-    <li><a href="https://www.viber.com/">Вайбер</a></li>
-    <li><a href="https://signal.org//">Сигнал</a></li>
-</ul>
-<p>
-<a href="https://itunes.apple.com/podcast/tehnologii-i-zizn/id1013700516?mt=2">наш подкаст в директории подкастов Эппл</a>
-<br>и <a href="https://overcast.fm/itunes1013700516">в Оверкасте</a>
-</p>]]></itunes:subtitle>
-            <itunesu:category itunesu:code="112" />
-            <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/525021030-techlifepodcast-episode-27-november-1-2018.mp3" length="38285591"/>
-            <guid>http://feeds.soundcloud.com/stream/525021030-techlifepodcast-episode-27-november-1-2018.mp3</guid>
-            <itunes:duration>H:MM:SS</itunes:duration>
-            <itunes:explicit>clean</itunes:explicit>
-            <pubDate>Thu, 1 Nov 2018 00:05:00 EST</pubDate>
-        </item>
-        
-<!-- разделитель эпизодов -->        
-        <item>
-            <title>#26: Рассказы об Азии через Эирподс</title>
-            <description><![CDATA[<p>
-<br>Рассказы об Азии через Эирподс
-</p>
-<p><b>Ссылки к эпизоду:</b></p>
-<ul class="bulleted">
-    <li><a href="https://www.apple.com/lae/airpods/">Эппл Эирподс</a></li>
-    <li><a href="https://www.xmpow.com/mpow-overear-headphone.html">Наушники Mpow</a></li>
-	<a href="http://amzn.to/2kMCxqe">на амазаоне</a></li>
-    <li><a href="https://www.detour.com">Детур</a></li>
-<p>
-<a href="https://itunes.apple.com/podcast/tehnologii-i-zizn/id1013700516?mt=2">наш подкаст в директории подкастов Эппл</a>
-<br>и <a href="https://overcast.fm/itunes1013700516">в Оверкасте</a>
-</p>
-]]></description>
-            <itunes:summary>Рассказы об Азии через Эирподс http://techlifepodcast.com/episodes/26</itunes:summary>
-            <itunes:subtitle><![CDATA[<p>
-<br>Рассказы об Азии через Эирподс
-</p>
-<p><b>Ссылки к эпизоду:</b></p>
-<ul class="bulleted">
-    <li><a href="https://www.apple.com/lae/airpods/">Эппл Эирподс</a></li>
-    <li><a href="https://www.xmpow.com/mpow-overear-headphone.html">Наушники Mpow</a></li>
-	<a href="http://amzn.to/2kMCxqe">на амазаоне</a></li>
-    <li><a href="https://www.detour.com">Детур</a></li>
-<p>
-<a href="https://itunes.apple.com/podcast/tehnologii-i-zizn/id1013700516?mt=2">наш подкаст в директории подкастов Эппл</a>
-<br>и <a href="https://overcast.fm/itunes1013700516">в Оверкасте</a>
-</p>]]></itunes:subtitle>
-            <itunesu:category itunesu:code="112" />
-            <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/367668137-techlifepodcast-26-rasskazy-ob-azii-cherez-eirpods.mp3" length="33383905"/>
-            <guid>http://feeds.soundcloud.com/stream/367668137-techlifepodcast-26-rasskazy-ob-azii-cherez-eirpods.mp3</guid>
-            <itunes:duration>H:MM:SS</itunes:duration>
-            <itunes:explicit>clean</itunes:explicit>
-            <pubDate>Tue, 5 Dec 2017 00:05:00 EST</pubDate>
-        </item>
-        
-<!-- разделитель эпизодов -->            
-      
-        <item>
-            <title>#25: Разматываем идеологии как наушники</title>
-            <description><![CDATA[<p>
-<br>Разматываем идеологии как наушники
-Ведь от того как смотать наушники, и свобода слова зависит.
-</p>
-<p><b>Ссылки к эпизоду:</b></p>
-<ul class="bulleted">
-    <li>📺 <a href="https://www.youtube.com/watch?v=utfbE3_uAMA">Добавление разъема для наушников в айФон 7</a></li>
-    <li>📺 <a href="https://www.youtube.com/watch?v=E696MxK1Qug">Как правильно смотать наушники</a></li>
-    <li><a href="http://www.loopinsight.com/2015/07/22/apple-music-is-a-nightmare-and-im-done-with-it/">Проблема Далримпла с Эппл Мьюзик</a></li>
-    <li><img src="http://thedimka.com/i/broken_compilation_display_in_itunes-531.png" width="531" height="398" border="0"><br>Айтюнз не правильно показывает сборники</li>
-    <li>📺 <a href="https://www.youtube.com/watch?v=W8_Kfjo3VjU">Перегрузите вебсервер</a></li>
-    <li><a href="http://www.bombaestereoayo.com/">Бомба эстерио</a></li>
-    <li><a href="http://www.murcof.com">Муркоф</a></li>
-    <li><a href="https://ru.wikiquote.org/wiki/Уинстон_Черчилль##.D0.9E.D1.88.D0.B8.D0.B1.D0.BE.D1.87.D0.BD.D0.BE_.D0.BF.D1.80.D0.B8.D0.BF.D0.B8.D1.81.D1.8B.D0.B2.D0.B0.D0.B5.D0.BC.D1.8B.D0.B5">Лже-цитата: если вы в 25 лет вы не либерал и если вы в 35 лет не консерватор у вас нет мозгов</a></li>
-    <li><a href="https://medium.com/@Cernovich/full-james-damore-memo-uncensored-memo-with-charts-and-cites-339f3d2d05f">Документ который написал Джеймс Дамор</a></li>
-    <li><a href="http://dailycaller.com/2017/08/01/google-and-youtube-ban-prof-who-refused-to-use-gender-neutral-pronouns/">Джордан Петерсон и его заблокированный gmail аккаунт</a></li>
-    <li><a href="https://ru.wikipedia.org/wiki/Закон_Годвина">Закон Годвина</a></li>
-    <li><img src="http://thedimka.com/i/antifa-berkeley-aug-2017-531.jpg" width="531" height="260" border="0"><br>Антифа в Беркли</li>
-    <li><a href="https://blog.cloudflare.com/why-we-terminated-daily-stormer/">Клаудфлеир меняет правила пользования</a></li>
-</ul>
-<p>
-<a href="https://itunes.apple.com/podcast/tehnologii-i-zizn/id1013700516?mt=2">наш подкаст в директории подкастов Эппл</a>
-<br>и <a href="https://overcast.fm/itunes1013700516">в Оверкасте</a>
-</p>
-]]></description>
-            <itunes:summary>Разматываем идеологии как наушники http://techlifepodcast.com/episodes/25</itunes:summary>
-            <itunes:subtitle><![CDATA[<p>
-<br>Разматываем идеологии как наушники
-Ведь от того как смотать наушники, и свобода слова зависит.
-</p>
-<p><b>Ссылки к эпизоду:</b></p>
-<ul class="bulleted">
-    <li>📺 <a href="https://www.youtube.com/watch?v=utfbE3_uAMA">Добавление разъема для наушников в айФон 7</a></li>
-    <li>📺 <a href="https://www.youtube.com/watch?v=E696MxK1Qug">Как правильно смотать наушники</a></li>
-    <li><a href="http://www.loopinsight.com/2015/07/22/apple-music-is-a-nightmare-and-im-done-with-it/">Проблема Далримпла с Эппл Мьюзик</a></li>
-    <li><img src="http://thedimka.com/i/broken_compilation_display_in_itunes-531.png" width="531" height="398" border="0"><br>Айтюнз не правильно показывает сборники</li>
-    <li>📺 <a href="https://www.youtube.com/watch?v=W8_Kfjo3VjU">Перегрузите вебсервер</a></li>
-    <li><a href="http://www.bombaestereoayo.com/">Бомба эстерио</a></li>
-    <li><a href="http://www.murcof.com">Муркоф</a></li>
-    <li><a href="https://ru.wikiquote.org/wiki/Уинстон_Черчилль##.D0.9E.D1.88.D0.B8.D0.B1.D0.BE.D1.87.D0.BD.D0.BE_.D0.BF.D1.80.D0.B8.D0.BF.D0.B8.D1.81.D1.8B.D0.B2.D0.B0.D0.B5.D0.BC.D1.8B.D0.B5">Лже-цитата: если вы в 25 лет вы не либерал и если вы в 35 лет не консерватор у вас нет мозгов</a></li>
-    <li><a href="https://medium.com/@Cernovich/full-james-damore-memo-uncensored-memo-with-charts-and-cites-339f3d2d05f">Документ который написал Джеймс Дамор</a></li>
-    <li><a href="http://dailycaller.com/2017/08/01/google-and-youtube-ban-prof-who-refused-to-use-gender-neutral-pronouns/">Джордан Петерсон и его заблокированный gmail аккаунт</a></li>
-    <li><a href="https://ru.wikipedia.org/wiki/Закон_Годвина">Закон Годвина</a></li>
-    <li><img src="http://thedimka.com/i/antifa-berkeley-aug-2017-531.jpg" width="531" height="260" border="0"><br>Антифа в Беркли</li>
-    <li><a href="https://blog.cloudflare.com/why-we-terminated-daily-stormer/">Клаудфлеир меняет правила пользования</a></li>
-</ul>
-<p>
-<a href="https://itunes.apple.com/podcast/tehnologii-i-zizn/id1013700516?mt=2">наш подкаст в директории подкастов Эппл</a>
-<br>и <a href="https://overcast.fm/itunes1013700516">в Оверкасте</a>
-</p>]]></itunes:subtitle>
-            <itunesu:category itunesu:code="112" />
-            <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/345757588-techlifepodcast-episode-25.mp3" length="57542478"/>
-            <guid>http://feeds.soundcloud.com/stream/345757588-techlifepodcast-episode-25.mp3</guid>
-            <itunes:duration>H:MM:SS</itunes:duration>
-            <itunes:explicit>clean</itunes:explicit>
-            <pubDate>Sun, 24 Sep 2017 00:05:00 EST</pubDate>
-        </item>
-        
-<!-- разделитель эпизодов -->            
-      
-        <item>
-            <title>#24: Колумбия и Мексика</title>
-            <description><![CDATA[<p>
-Колумбия и Мексика<br>
-Василий вернулся из проехался по Латинской Америке
-</p>
-<p><b>Ссылки к эпизоду:</b></p>
-<ul class="bulleted">
-    <li><a href="https://www.youtube.com/user/samaza">Сэм и его канал на Ютюбе LifeAFAR</a></li>
-    <li><a href="http://www.claro.com.co/personas/">Кларо</a></li>
-    <li><a href="https://daringfireball.net/thetalkshow/2017/06/08/ep-193">WWDC 2017 Шоу Джона Грубера</a></li>
-</ul>
-<p>
-<a href="https://itunes.apple.com/podcast/tehnologii-i-zizn/id1013700516?mt=2">наш подкаст в директории подкастов Эппл</a>
-<br>и <a href="https://overcast.fm/itunes1013700516">в Оверкасте</a>
-</p>
-]]></description>
-            <itunes:summary>Колумбия и Мексика http://techlifepodcast.com/episodes/24</itunes:summary>
-            <itunes:subtitle><![CDATA[<p>
-Колумбия и Мексика<br>
-Василий вернулся из проехался по Латинской Америке
-</p>
-<p><b>Ссылки к эпизоду:</b></p>
-<ul class="bulleted">
-    <li><a href="https://www.youtube.com/user/samaza">Сэм и его канал на Ютюбе LifeAFAR</a></li>
-    <li><a href="http://www.claro.com.co/personas/">Кларо</a></li>
-    <li><a href="https://daringfireball.net/thetalkshow/2017/06/08/ep-193">WWDC 2017 Шоу Джона Грубера</a></li>
-</ul>
-<p>
-<a href="https://itunes.apple.com/podcast/tehnologii-i-zizn/id1013700516?mt=2">наш подкаст в директории подкастов Эппл</a>
-<br>и <a href="https://overcast.fm/itunes1013700516">в Оверкасте</a>
-</p>]]></itunes:subtitle>
-            <itunesu:category itunesu:code="112" />
-            <enclosure type="audio/mpeg" url="http://techlifepodcast.com/Episodes/333532301-techlifepodcast-episode-24-july-3-2017.mp3" length="43880576"/>
-            <guid>http://techlifepodcast.com/Episodes/333532301-techlifepodcast-episode-24-july-3-2017.mp3</guid>
-            <itunes:duration>H:MM:SS</itunes:duration>
-            <itunes:explicit>clean</itunes:explicit>
-            <pubDate>Mon, 3 Jul 2017 00:05:00 EST</pubDate>
-        </item>
-        
-<!-- разделитель эпизодов -->            
-        <item>
-            <title>#23: Трудности и радости Хомо Сапиенса в путешествиях</title>
-            <description><![CDATA[<p>
-Трудности и радости Хомо Сапиенса в путешествиях<br>
-Разные страны, уберы и айфоны
-</p>
-<p><b>Ссылки к эпизоду:</b></p>
-<ul class="bulleted">
-    <li><a href="http://www.ynharari.com/book/sapiens/">Книга Сапиенс (Разумные) о развитии человечества, автор Ювал Харари</a></li>
-    <li><a href="https://youtu.be/7Lre6GxiQUE?t=33m19s">Илон Маск о целях в саморазвитии</a></li>
-    <li><a href="http://www.gettyimages.com/photos/guanajuato?excludenudity=true&mediatype=photography&phrase=guanajuato&sort=mostpopular">Виды города Гуанахуато, Мексика</a></li>
-    <li><a href="https://daringfireball.net/2017/04/uber_identifying_and_tagging_iphones">Джон Грубер разбирает новость про Убер и их тайную маркировку айфонов</a></li>
-</ul>
-<p>
-<a href="https://itunes.apple.com/podcast/tehnologii-i-zizn/id1013700516?mt=2">наш подкаст в директории подкастов Эппл</a>
-<br>и <a href="https://overcast.fm/itunes1013700516">в Оверкасте</a>
-</p>
-]]></description>
-            <itunes:summary>Трудности и радости Хомо Сапиенса в путешествиях http://techlifepodcast.com/episodes/23</itunes:summary>
-            <itunes:subtitle><![CDATA[<p>
-Трудности и радости Хомо Сапиенса в путешествиях<br>
-Разные страны, уберы и айфоны
-</p>
-<p><b>Ссылки к эпизоду:</b></p>
-<ul class="bulleted">
-    <li><a href="http://www.ynharari.com/book/sapiens/">Книга Сапиенс (Разумные) о развитии человечества, автор Ювал Харари</a></li>
-    <li><a href="https://youtu.be/7Lre6GxiQUE?t=33m19s">Илон Маск о целях в саморазвитии</a></li>
-    <li><a href="http://www.gettyimages.com/photos/guanajuato?excludenudity=true&mediatype=photography&phrase=guanajuato&sort=mostpopular">Виды города Гуанахуато, Мексика</a></li>
-    <li><a href="https://daringfireball.net/2017/04/uber_identifying_and_tagging_iphones">Джон Грубер разбирает новость про Убер и их тайную маркировку айфонов</a></li>
-</ul>
-<p>
-<a href="https://itunes.apple.com/podcast/tehnologii-i-zizn/id1013700516?mt=2">наш подкаст в директории подкастов Эппл</a>
-<br>и <a href="https://overcast.fm/itunes1013700516">в Оверкасте</a>
-</p>]]></itunes:subtitle>
-            <itunesu:category itunesu:code="112" />
-            <enclosure url="http://techlifepodcast.com/Episodes/320546738-techlifepodcast-episode-23-april-28-2017.mp3" type="audio/mpeg" length="56090752" />
-            <guid>http://techlifepodcast.com/Episodes/320546738-techlifepodcast-episode-23-april-28-2017.mp3</guid>
-            <itunes:duration>H:MM:SS</itunes:duration>
-            <itunes:explicit>clean</itunes:explicit>
-            <pubDate>Sun, 28 Apr 2017 00:05:00 EST</pubDate>
-        </item>
-        
-<!-- разделитель эпизодов -->      
-        <item>
-            <title>#22: Сложности с айФонами, путешествия, новый подкаст Василия и неновости</title>
-            <description><![CDATA[<p>
-Сложности с айФонами, путешествия, новый подкаст Василия и неновости
-</p>
-<p><b>Ссылки к эпизоду:</b></p>
-<ul class="bulleted">
-    <li><a href="http://exponent.fm/episode-106-to-be-an-outlaw/">Бен Томпсон про удаление Убер Апп и критику Эппл</a></li>
-    <li><a href="http://www.theverge.com/2017/2/28/14760400/iphone-8-2017-rumors-usb-c-lightning">Слухи про USB-C в следующем айФоне</a></li>
-    <li><img src="http://thedimka.com/i/thailand-electrical-outlet-531.png" width="531" height="350" border="0"><br>Электрические розетки в Тайланде подойдут и для американских вилок и для европейских</li>
-    <li><a href="https://vimeo.com/36128360">Джонатан Хайдт рассказывает о недопонимании в обществе между консерваторами и либералами</a></li>
-    <li><a href="http://www.everydayjourneypodcast.com/">Новый подкаст Василия - Everyday Journey Podcast</a></li>
-    <li><a href="https://www.youtube.com/watch?v=y3qkf3bajd4">Юрий Безменов: Deception Was My Job</a></li>
-</ul>
-<p>
-<a href="https://itunes.apple.com/podcast/tehnologii-i-zizn/id1013700516?mt=2">наш подкаст в директории подкастов Эппл</a>
-<br>и <a href="https://overcast.fm/itunes1013700516">в Оверкасте</a>]]></description>
-            <itunes:summary>Сложности с айФонами, путешествия, новый подкаст Василия и неновости http://techlifepodcast.com/episodes/22</itunes:summary>
-            <itunes:subtitle><![CDATA[<p>
-Сложности с айФонами, путешествия, новый подкаст Василия и неновости
-</p>
-<p><b>Ссылки к эпизоду:</b></p>
-<ul class="bulleted">
-    <li><a href="http://exponent.fm/episode-106-to-be-an-outlaw/">Бен Томпсон про удаление Убер Апп и критику Эппл</a></li>
-    <li><a href="http://www.theverge.com/2017/2/28/14760400/iphone-8-2017-rumors-usb-c-lightning">Слухи про USB-C в следующем айФоне</a></li>
-    <li><img src="http://thedimka.com/i/thailand-electrical-outlet-531.png" width="531" height="350" border="0"><br>Электрические розетки в Тайланде подойдут и для американских вилок и для европейских</li>
-    <li><a href="https://vimeo.com/36128360">Джонатан Хайдт рассказывает о недопонимании в обществе между консерваторами и либералами</a></li>
-    <li><a href="http://www.everydayjourneypodcast.com/">Новый подкаст Василия - Everyday Journey Podcast</a></li>
-    <li><a href="https://www.youtube.com/watch?v=y3qkf3bajd4">Юрий Безменов: Deception Was My Job</a></li>
-</ul>
-<p>
-<a href="https://itunes.apple.com/podcast/tehnologii-i-zizn/id1013700516?mt=2">наш подкаст в директории подкастов Эппл</a>
-<br>и <a href="https://overcast.fm/itunes1013700516">в Оверкасте</a>]]></itunes:subtitle>
-            <itunesu:category itunesu:code="112" />
-            <enclosure url="http://techlifepodcast.com/Episodes/313556027-techlifepodcast-episode-22-march-17-2017.mp3" type="audio/mpeg" length="63885499" />
-            <guid>http://techlifepodcast.com/Episodes/313556027-techlifepodcast-episode-22-march-17-2017.mp3</guid>
-            <itunes:duration>H:MM:SS</itunes:duration>
-            <itunes:explicit>clean</itunes:explicit>
-            <pubDate>Fri, 17 Mar 2017 00:05:00 EST</pubDate>
-        </item>
-        
-<!-- разделитель эпизодов --> 
-        <item>
-            <title>#21: Мир дикого запада, Польши и неприбытие инопланетян</title>
-            <description><![CDATA[<p>
-Мир дикого запада, Польши и неприбытие инопланетян
-</p>
-<p><b>Ссылки к эпизоду:</b></p>
-<ul class="bulleted">
-    <li><a href="https://techcrunch.com/2016/11/22/googles-ai-translation-tool-seems-to-have-invented-its-own-secret-internal-language/">Искусственный интелект Гугла создаёт свой язык</a></li>
-    <li><a href="https://www.kinopoisk.ru/film/195523/">Сериал «Мир Дикого Запада»</a></li>
-    <li><a href="https://www.kinopoisk.ru/film/718811/">к/ф Прибытие</a></li>
-    <li><a href="http://www.theverge.com/2016/12/6/13853566/samsung-s8-rumor-release-headphone-jack-usb-c">Новый смартфон от Самсунг будет без входа для наушников</a></li>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed">
+  <channel>
+    <link>http://techlifepodcast.com/</link>
+    <language>ru</language>
+    <copyright>©2018</copyright>
+    <webMaster>talk@techlifepodcast.com (Vasily Myazin and Dmitri Zdorov)</webMaster>
+    <managingEditor>talk@techlifepodcast.com (Vasily Myazin and Dmitri Zdorov)</managingEditor>
+    <image>
+      <url>http://techlifepodcast.com/img/techlife-artwork-1400x1400.jpg</url>
+      <title>Технологии и жизнь - подкаст</title>
+      <link>http://techlifepodcast.com/</link>
+    </image>
+    <description>Интернет радио-программа про современные технологии, их влияние на нашу жизнь, и прочие мысли. Ведущие: Дмитрий Здоров и Василий Мязин.</description>
+    <itunes:summary>Интернет радио-программа про современные технологии, их влияние на нашу жизнь, и прочие мысли.</itunes:summary>
+    <itunes:subtitle>Ведущие: Дмитрий Здоров и Василий Мязин.</itunes:subtitle>
+    <itunes:owner>
+      <itunes:name>Vasily Myazin and Dmitri Zdorov</itunes:name>
+      <itunes:email>talk@techlifepodcast.com</itunes:email>
+    </itunes:owner>
+    <itunes:author>Vasily Myazin and Dmitri Zdorov</itunes:author>
+    <itunes:category text="Technology">
+      <itunes:category text="Gadgets"/>
+    </itunes:category>
+    <itunes:keywords>technology, podcast, russian, apple, google, travel</itunes:keywords>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="http://techlifepodcast.com/img/techlife-artwork-1400x1400.jpg"/>
+    <atom:link href="http://techlifepodcast.com/podcast-feed.xml" rel="self" type="application/rss+xml"/>
+    <lastBuildDate>Wed, 12 Dec 2018 00:05:00 EST</lastBuildDate>
     
-</ul>
-<p>
-<a href="https://itunes.apple.com/podcast/tehnologii-i-zizn/id1013700516?mt=2">наш подкаст в директории подкастов Эппл</a> и <a href="https://overcast.fm/itunes1013700516">в Оверкасте</a>
-</p>]]></description>
-            <itunes:summary>Мир дикого запада, Польши и неприбытие инопланетян http://techlifepodcast.com/episodes/21</itunes:summary>
-            <itunes:subtitle><![CDATA[<p>
-Мир дикого запада, Польши и неприбытие инопланетян
-</p>
-<p><b>Ссылки к эпизоду:</b></p>
-<ul class="bulleted">
-    <li><a href="https://techcrunch.com/2016/11/22/googles-ai-translation-tool-seems-to-have-invented-its-own-secret-internal-language/">Искусственный интелект Гугла создаёт свой язык</a></li>
-    <li><a href="https://www.kinopoisk.ru/film/195523/">Сериал «Мир Дикого Запада»</a></li>
-    <li><a href="https://www.kinopoisk.ru/film/718811/">к/ф Прибытие</a></li>
-    <li><a href="http://www.theverge.com/2016/12/6/13853566/samsung-s8-rumor-release-headphone-jack-usb-c">Новый смартфон от Самсунг будет без входа для наушников</a></li>
-    
-</ul>
-<p>
-<a href="https://itunes.apple.com/podcast/tehnologii-i-zizn/id1013700516?mt=2">наш подкаст в директории подкастов Эппл</a> и <a href="https://overcast.fm/itunes1013700516">в Оверкасте</a>
-</p>]]></itunes:subtitle>
-            <itunesu:category itunesu:code="112" />
-            <enclosure url="http://techlifepodcast.com/Episodes/298312917-techlifepodcast-techlife-21-2016-12-14.mp3" type="audio/mpeg" length="22980000" />
-            <guid>http://techlifepodcast.com/Episodes/298312917-techlifepodcast-techlife-21-2016-12-14.mp3</guid>
-            <itunes:duration>H:MM:SS</itunes:duration>
-            <itunes:explicit>clean</itunes:explicit>
-            <pubDate>Wed, 14 December 2016 00:05:00 EST</pubDate>
-        </item>
-        
-<!-- разделитель эпизодов --> 
-
-    </channel>
+    <!-- начало эпизодов -->
+    <item>
+      <title>#28: Замки в облаках</title>
+      <description>
+        <![CDATA[<p><br>Замки в облаках
+<br>Или о том как надёжно, зашифрованно, безопасно хранить своди данные в облаках или разных хранилищах файлов.
+</p><p><b>Ссылки к эпизоду:</b></p><ul class="bulleted"><li><a href="https://dropbox.com">Dropbox</a>(open new account <a href="https://db.tt/UlYxDXer">new account</a>)</li><li><a href="https://box.com/">Box.com</a></li><li><a href="https://google.com/drive/">Google Drive</a></li><li>Apple <a href="https://www.icloud.com/#iclouddrive">iCloudDrive</a>и <a href="https://support.apple.com/en-us/HT201250">Time Machine</a></li><li><a href="https://mega.nz/">mega.nz</a></li><li><a href="https://onedrive.live.com/">Microsoft OneDrive</a></li><li><a href="https://disk.yandex.ru/">Яндекс Диск</a></li><li><a href="https://secure.backblaze.com/r/0115bz">Backblaze</a>резервное копия в облаке</li><li><a href="https://www.egnyte.com/">Egnyte</a>решения для корпораций</li><li><a href="https://cloudmounter.net/">Cloud Mounter</a></li><li><a href="https://www.sendspace.com/">sendspace.com</a></li></ul><p><a href="https://itunes.apple.com/podcast/tehnologii-i-zizn/id1013700516?mt=2">наш подкаст в директории подкастов Эппл</a><br>и <a href="https://overcast.fm/itunes1013700516">в Оверкасте</a></p>]]>
+      </description>
+      <itunes:summary>Замки в облаках http://techlifepodcast.com/episodes/28</itunes:summary>
+      <itunes:subtitle>
+        <![CDATA[<p><br>Замки в облаках
+<br>Или о том как надёжно, зашифрованно, безопасно хранить своди данные в облаках или разных хранилищах файлов.
+</p><p><b>Ссылки к эпизоду:</b></p><ul class="bulleted"><li><a href="https://dropbox.com">Dropbox</a>(open new account <a href="https://db.tt/UlYxDXer">new account</a>)</li><li><a href="https://box.com/">Box.com</a></li><li><a href="https://google.com/drive/">Google Drive</a></li><li>Apple <a href="https://www.icloud.com/#iclouddrive">iCloudDrive</a>и <a href="https://support.apple.com/en-us/HT201250">Time Machine</a></li><li><a href="https://mega.nz/">mega.nz</a></li><li><a href="https://onedrive.live.com/">Microsoft OneDrive</a></li><li><a href="https://disk.yandex.ru/">Яндекс Диск</a></li><li><a href="https://secure.backblaze.com/r/0115bz">Backblaze</a>резервное копия в облаке</li><li><a href="https://www.egnyte.com/">Egnyte</a>решения для корпораций</li><li><a href="https://cloudmounter.net/">Cloud Mounter</a></li><li><a href="https://www.sendspace.com/">sendspace.com</a></li></ul><p><a href="https://itunes.apple.com/podcast/tehnologii-i-zizn/id1013700516?mt=2">наш подкаст в директории подкастов Эппл</a><br>и <a href="https://overcast.fm/itunes1013700516">в Оверкасте</a></p>]]>
+      </itunes:subtitle>
+      <itunesu:category itunesu:code="112"/>
+      <enclosure length="36483409" type="audio/mpeg" url="http://feeds.soundcloud.com/stream/546816954-techlifepodcast-episode-28-zamki-v-oblakakh.mp3"/>
+      <guid>http://feeds.soundcloud.com/stream/546816954-techlifepodcast-episode-28-zamki-v-oblakakh.mp3</guid>
+      <itunes:duration>H:MM:SS</itunes:duration>
+      <itunes:explicit>clean</itunes:explicit>
+      <pubDate>Wed, 12 Dec 2018 00:05:00 EST</pubDate>
+    </item>
+    <!-- разделитель эпизодов -->
+    <item>
+      <title>#27: Телефон, Телеграф, Скайпъ</title>
+      <description>
+        <![CDATA[<p><br>Телефон, Телеграф, Скайпъ
+</p><p><b>Ссылки к эпизоду:</b></p><ul class="bulleted"><li><a href="https://www.skype.com">Скайп</a></li><li><a href="https://telegram.org/">Телеграм</a></li><li><a href="https://www.whatsapp.com/">Вотсапп</a></li><li><a href="https://support.apple.com/explore/messages">Эппл месседжес</a>(ранее айМесседж)</li><li><a href="https://www.messenger.com/">Фейсбук мессенджер</a></li><li><a href="https://hangouts.google.com/">Гугл хенгаутс</a>(ранее Гугл Ток)</li><li><a href="https://slack.com/">Слек</a></li><li><a href="https://www.wechat.com/ru/">ВиЧат</a></li><li><a href="https://line.me/">Лайн</a></li><li><a href="https://www.viber.com/">Вайбер</a></li><li><a href="https://signal.org//">Сигнал</a></li></ul><p><a href="https://itunes.apple.com/podcast/tehnologii-i-zizn/id1013700516?mt=2">наш подкаст в директории подкастов Эппл</a><br>и <a href="https://overcast.fm/itunes1013700516">в Оверкасте</a></p>]]>
+      </description>
+      <itunes:summary>Телефон, Телеграф, Скайпъ http://techlifepodcast.com/episodes/27</itunes:summary>
+      <itunes:subtitle>
+        <![CDATA[<p><br>Телефон, Телеграф, Скайпъ
+</p><p><b>Ссылки к эпизоду:</b></p><ul class="bulleted"><li><a href="https://www.skype.com">Скайп</a></li><li><a href="https://telegram.org/">Телеграм</a></li><li><a href="https://www.whatsapp.com/">Вотсапп</a></li><li><a href="https://support.apple.com/explore/messages">Эппл месседжес</a>(ранее айМесседж)</li><li><a href="https://www.messenger.com/">Фейсбук мессенджер</a></li><li><a href="https://hangouts.google.com/">Гугл хенгаутс</a>(ранее Гугл Ток)</li><li><a href="https://slack.com/">Слек</a></li><li><a href="https://www.wechat.com/ru/">ВиЧат</a></li><li><a href="https://line.me/">Лайн</a></li><li><a href="https://www.viber.com/">Вайбер</a></li><li><a href="https://signal.org//">Сигнал</a></li></ul><p><a href="https://itunes.apple.com/podcast/tehnologii-i-zizn/id1013700516?mt=2">наш подкаст в директории подкастов Эппл</a><br>и <a href="https://overcast.fm/itunes1013700516">в Оверкасте</a></p>]]>
+      </itunes:subtitle>
+      <itunesu:category itunesu:code="112"/>
+      <enclosure length="38285591" type="audio/mpeg" url="http://feeds.soundcloud.com/stream/525021030-techlifepodcast-episode-27-november-1-2018.mp3"/>
+      <guid>http://feeds.soundcloud.com/stream/525021030-techlifepodcast-episode-27-november-1-2018.mp3</guid>
+      <itunes:duration>H:MM:SS</itunes:duration>
+      <itunes:explicit>clean</itunes:explicit>
+      <pubDate>Thu, 1 Nov 2018 00:05:00 EST</pubDate>
+    </item>
+    <!-- разделитель эпизодов -->
+    <item>
+      <title>#26: Рассказы об Азии через Эирподс</title>
+      <description>
+        <![CDATA[<p><br>Рассказы об Азии через Эирподс
+</p><p><b>Ссылки к эпизоду:</b></p><ul class="bulleted"><li><a href="https://www.apple.com/lae/airpods/">Эппл Эирподс</a></li><li><a href="https://www.xmpow.com/mpow-overear-headphone.html">Наушники Mpow</a></li><a href="http://amzn.to/2kMCxqe">на амазаоне</a></li><li><a href="https://www.detour.com">Детур</a></li><p><a href="https://itunes.apple.com/podcast/tehnologii-i-zizn/id1013700516?mt=2">наш подкаст в директории подкастов Эппл</a><br>и <a href="https://overcast.fm/itunes1013700516">в Оверкасте</a></p>]]>
+      </description>
+      <itunes:summary>Рассказы об Азии через Эирподс http://techlifepodcast.com/episodes/26</itunes:summary>
+      <itunes:subtitle>
+        <![CDATA[<p><br>Рассказы об Азии через Эирподс
+</p><p><b>Ссылки к эпизоду:</b></p><ul class="bulleted"><li><a href="https://www.apple.com/lae/airpods/">Эппл Эирподс</a></li><li><a href="https://www.xmpow.com/mpow-overear-headphone.html">Наушники Mpow</a></li><a href="http://amzn.to/2kMCxqe">на амазаоне</a></li><li><a href="https://www.detour.com">Детур</a></li><p><a href="https://itunes.apple.com/podcast/tehnologii-i-zizn/id1013700516?mt=2">наш подкаст в директории подкастов Эппл</a><br>и <a href="https://overcast.fm/itunes1013700516">в Оверкасте</a></p>]]>
+      </itunes:subtitle>
+      <itunesu:category itunesu:code="112"/>
+      <enclosure length="33383905" type="audio/mpeg" url="http://feeds.soundcloud.com/stream/367668137-techlifepodcast-26-rasskazy-ob-azii-cherez-eirpods.mp3"/>
+      <guid>http://feeds.soundcloud.com/stream/367668137-techlifepodcast-26-rasskazy-ob-azii-cherez-eirpods.mp3</guid>
+      <itunes:duration>H:MM:SS</itunes:duration>
+      <itunes:explicit>clean</itunes:explicit>
+      <pubDate>Tue, 5 Dec 2017 00:05:00 EST</pubDate>
+    </item>
+    <!-- разделитель эпизодов -->
+    <item>
+      <title>#25: Разматываем идеологии как наушники</title>
+      <description>
+        <![CDATA[<p><br>Разматываем идеологии как наушники
+Ведь от того как смотать наушники, и свобода слова зависит.
+</p><p><b>Ссылки к эпизоду:</b></p><ul class="bulleted"><li>📺 <a href="https://www.youtube.com/watch?v=utfbE3_uAMA">Добавление разъема для наушников в айФон 7</a></li><li>📺 <a href="https://www.youtube.com/watch?v=E696MxK1Qug">Как правильно смотать наушники</a></li><li><a href="http://www.loopinsight.com/2015/07/22/apple-music-is-a-nightmare-and-im-done-with-it/">Проблема Далримпла с Эппл Мьюзик</a></li><li><img src="http://thedimka.com/i/broken_compilation_display_in_itunes-531.png" width="531" height="398" border="0"><br>Айтюнз не правильно показывает сборники</li><li>📺 <a href="https://www.youtube.com/watch?v=W8_Kfjo3VjU">Перегрузите вебсервер</a></li><li><a href="http://www.bombaestereoayo.com/">Бомба эстерио</a></li><li><a href="http://www.murcof.com">Муркоф</a></li><li><a href="https://ru.wikiquote.org/wiki/Уинстон_Черчилль##.D0.9E.D1.88.D0.B8.D0.B1.D0.BE.D1.87.D0.BD.D0.BE_.D0.BF.D1.80.D0.B8.D0.BF.D0.B8.D1.81.D1.8B.D0.B2.D0.B0.D0.B5.D0.BC.D1.8B.D0.B5">Лже-цитата: если вы в 25 лет вы не либерал и если вы в 35 лет не консерватор у вас нет мозгов</a></li><li><a href="https://medium.com/@Cernovich/full-james-damore-memo-uncensored-memo-with-charts-and-cites-339f3d2d05f">Документ который написал Джеймс Дамор</a></li><li><a href="http://dailycaller.com/2017/08/01/google-and-youtube-ban-prof-who-refused-to-use-gender-neutral-pronouns/">Джордан Петерсон и его заблокированный gmail аккаунт</a></li><li><a href="https://ru.wikipedia.org/wiki/Закон_Годвина">Закон Годвина</a></li><li><img src="http://thedimka.com/i/antifa-berkeley-aug-2017-531.jpg" width="531" height="260" border="0"><br>Антифа в Беркли</li><li><a href="https://blog.cloudflare.com/why-we-terminated-daily-stormer/">Клаудфлеир меняет правила пользования</a></li></ul><p><a href="https://itunes.apple.com/podcast/tehnologii-i-zizn/id1013700516?mt=2">наш подкаст в директории подкастов Эппл</a><br>и <a href="https://overcast.fm/itunes1013700516">в Оверкасте</a></p>]]>
+      </description>
+      <itunes:summary>Разматываем идеологии как наушники http://techlifepodcast.com/episodes/25</itunes:summary>
+      <itunes:subtitle>
+        <![CDATA[<p><br>Разматываем идеологии как наушники
+Ведь от того как смотать наушники, и свобода слова зависит.
+</p><p><b>Ссылки к эпизоду:</b></p><ul class="bulleted"><li>📺 <a href="https://www.youtube.com/watch?v=utfbE3_uAMA">Добавление разъема для наушников в айФон 7</a></li><li>📺 <a href="https://www.youtube.com/watch?v=E696MxK1Qug">Как правильно смотать наушники</a></li><li><a href="http://www.loopinsight.com/2015/07/22/apple-music-is-a-nightmare-and-im-done-with-it/">Проблема Далримпла с Эппл Мьюзик</a></li><li><img src="http://thedimka.com/i/broken_compilation_display_in_itunes-531.png" width="531" height="398" border="0"><br>Айтюнз не правильно показывает сборники</li><li>📺 <a href="https://www.youtube.com/watch?v=W8_Kfjo3VjU">Перегрузите вебсервер</a></li><li><a href="http://www.bombaestereoayo.com/">Бомба эстерио</a></li><li><a href="http://www.murcof.com">Муркоф</a></li><li><a href="https://ru.wikiquote.org/wiki/Уинстон_Черчилль##.D0.9E.D1.88.D0.B8.D0.B1.D0.BE.D1.87.D0.BD.D0.BE_.D0.BF.D1.80.D0.B8.D0.BF.D0.B8.D1.81.D1.8B.D0.B2.D0.B0.D0.B5.D0.BC.D1.8B.D0.B5">Лже-цитата: если вы в 25 лет вы не либерал и если вы в 35 лет не консерватор у вас нет мозгов</a></li><li><a href="https://medium.com/@Cernovich/full-james-damore-memo-uncensored-memo-with-charts-and-cites-339f3d2d05f">Документ который написал Джеймс Дамор</a></li><li><a href="http://dailycaller.com/2017/08/01/google-and-youtube-ban-prof-who-refused-to-use-gender-neutral-pronouns/">Джордан Петерсон и его заблокированный gmail аккаунт</a></li><li><a href="https://ru.wikipedia.org/wiki/Закон_Годвина">Закон Годвина</a></li><li><img src="http://thedimka.com/i/antifa-berkeley-aug-2017-531.jpg" width="531" height="260" border="0"><br>Антифа в Беркли</li><li><a href="https://blog.cloudflare.com/why-we-terminated-daily-stormer/">Клаудфлеир меняет правила пользования</a></li></ul><p><a href="https://itunes.apple.com/podcast/tehnologii-i-zizn/id1013700516?mt=2">наш подкаст в директории подкастов Эппл</a><br>и <a href="https://overcast.fm/itunes1013700516">в Оверкасте</a></p>]]>
+      </itunes:subtitle>
+      <itunesu:category itunesu:code="112"/>
+      <enclosure length="57542478" type="audio/mpeg" url="http://feeds.soundcloud.com/stream/345757588-techlifepodcast-episode-25.mp3"/>
+      <guid>http://feeds.soundcloud.com/stream/345757588-techlifepodcast-episode-25.mp3</guid>
+      <itunes:duration>H:MM:SS</itunes:duration>
+      <itunes:explicit>clean</itunes:explicit>
+      <pubDate>Sun, 24 Sep 2017 00:05:00 EST</pubDate>
+    </item>
+    <!-- разделитель эпизодов -->
+    <item>
+      <title>#24: Колумбия и Мексика</title>
+      <description>
+        <![CDATA[<p>Колумбия и Мексика<br>Василий вернулся из проехался по Латинской Америке
+</p><p><b>Ссылки к эпизоду:</b></p><ul class="bulleted"><li><a href="https://www.youtube.com/user/samaza">Сэм и его канал на Ютюбе LifeAFAR</a></li><li><a href="http://www.claro.com.co/personas/">Кларо</a></li><li><a href="https://daringfireball.net/thetalkshow/2017/06/08/ep-193">WWDC 2017 Шоу Джона Грубера</a></li></ul><p><a href="https://itunes.apple.com/podcast/tehnologii-i-zizn/id1013700516?mt=2">наш подкаст в директории подкастов Эппл</a><br>и <a href="https://overcast.fm/itunes1013700516">в Оверкасте</a></p>]]>
+      </description>
+      <itunes:summary>Колумбия и Мексика http://techlifepodcast.com/episodes/24</itunes:summary>
+      <itunes:subtitle>
+        <![CDATA[<p>Колумбия и Мексика<br>Василий вернулся из проехался по Латинской Америке
+</p><p><b>Ссылки к эпизоду:</b></p><ul class="bulleted"><li><a href="https://www.youtube.com/user/samaza">Сэм и его канал на Ютюбе LifeAFAR</a></li><li><a href="http://www.claro.com.co/personas/">Кларо</a></li><li><a href="https://daringfireball.net/thetalkshow/2017/06/08/ep-193">WWDC 2017 Шоу Джона Грубера</a></li></ul><p><a href="https://itunes.apple.com/podcast/tehnologii-i-zizn/id1013700516?mt=2">наш подкаст в директории подкастов Эппл</a><br>и <a href="https://overcast.fm/itunes1013700516">в Оверкасте</a></p>]]>
+      </itunes:subtitle>
+      <itunesu:category itunesu:code="112"/>
+      <enclosure length="43880576" type="audio/mpeg" url="http://techlifepodcast.com/Episodes/333532301-techlifepodcast-episode-24-july-3-2017.mp3"/>
+      <guid>http://techlifepodcast.com/Episodes/333532301-techlifepodcast-episode-24-july-3-2017.mp3</guid>
+      <itunes:duration>H:MM:SS</itunes:duration>
+      <itunes:explicit>clean</itunes:explicit>
+      <pubDate>Mon, 3 Jul 2017 00:05:00 EST</pubDate>
+    </item>
+    <!-- разделитель эпизодов -->
+    <item>
+      <title>#23: Трудности и радости Хомо Сапиенса в путешествиях</title>
+      <description>
+        <![CDATA[<p>Трудности и радости Хомо Сапиенса в путешествиях<br>Разные страны, уберы и айфоны
+</p><p><b>Ссылки к эпизоду:</b></p><ul class="bulleted"><li><a href="http://www.ynharari.com/book/sapiens/">Книга Сапиенс (Разумные) о развитии человечества, автор Ювал Харари</a></li><li><a href="https://youtu.be/7Lre6GxiQUE?t=33m19s">Илон Маск о целях в саморазвитии</a></li><li><a href="http://www.gettyimages.com/photos/guanajuato?excludenudity=true&mediatype=photography&phrase=guanajuato&sort=mostpopular">Виды города Гуанахуато, Мексика</a></li><li><a href="https://daringfireball.net/2017/04/uber_identifying_and_tagging_iphones">Джон Грубер разбирает новость про Убер и их тайную маркировку айфонов</a></li></ul><p><a href="https://itunes.apple.com/podcast/tehnologii-i-zizn/id1013700516?mt=2">наш подкаст в директории подкастов Эппл</a><br>и <a href="https://overcast.fm/itunes1013700516">в Оверкасте</a></p>]]>
+      </description>
+      <itunes:summary>Трудности и радости Хомо Сапиенса в путешествиях http://techlifepodcast.com/episodes/23</itunes:summary>
+      <itunes:subtitle>
+        <![CDATA[<p>Трудности и радости Хомо Сапиенса в путешествиях<br>Разные страны, уберы и айфоны
+</p><p><b>Ссылки к эпизоду:</b></p><ul class="bulleted"><li><a href="http://www.ynharari.com/book/sapiens/">Книга Сапиенс (Разумные) о развитии человечества, автор Ювал Харари</a></li><li><a href="https://youtu.be/7Lre6GxiQUE?t=33m19s">Илон Маск о целях в саморазвитии</a></li><li><a href="http://www.gettyimages.com/photos/guanajuato?excludenudity=true&mediatype=photography&phrase=guanajuato&sort=mostpopular">Виды города Гуанахуато, Мексика</a></li><li><a href="https://daringfireball.net/2017/04/uber_identifying_and_tagging_iphones">Джон Грубер разбирает новость про Убер и их тайную маркировку айфонов</a></li></ul><p><a href="https://itunes.apple.com/podcast/tehnologii-i-zizn/id1013700516?mt=2">наш подкаст в директории подкастов Эппл</a><br>и <a href="https://overcast.fm/itunes1013700516">в Оверкасте</a></p>]]>
+      </itunes:subtitle>
+      <itunesu:category itunesu:code="112"/>
+      <enclosure length="56090752" type="audio/mpeg" url="http://techlifepodcast.com/Episodes/320546738-techlifepodcast-episode-23-april-28-2017.mp3"/>
+      <guid>http://techlifepodcast.com/Episodes/320546738-techlifepodcast-episode-23-april-28-2017.mp3</guid>
+      <itunes:duration>H:MM:SS</itunes:duration>
+      <itunes:explicit>clean</itunes:explicit>
+      <pubDate>Sun, 28 Apr 2017 00:05:00 EST</pubDate>
+    </item>
+    <!-- разделитель эпизодов -->
+    <item>
+      <title>#22: Сложности с айФонами, путешествия, новый подкаст Василия и неновости</title>
+      <description>
+        <![CDATA[<p>Сложности с айФонами, путешествия, новый подкаст Василия и неновости
+</p><p><b>Ссылки к эпизоду:</b></p><ul class="bulleted"><li><a href="http://exponent.fm/episode-106-to-be-an-outlaw/">Бен Томпсон про удаление Убер Апп и критику Эппл</a></li><li><a href="http://www.theverge.com/2017/2/28/14760400/iphone-8-2017-rumors-usb-c-lightning">Слухи про USB-C в следующем айФоне</a></li><li><img src="http://thedimka.com/i/thailand-electrical-outlet-531.png" width="531" height="350" border="0"><br>Электрические розетки в Тайланде подойдут и для американских вилок и для европейских</li><li><a href="https://vimeo.com/36128360">Джонатан Хайдт рассказывает о недопонимании в обществе между консерваторами и либералами</a></li><li><a href="http://www.everydayjourneypodcast.com/">Новый подкаст Василия - Everyday Journey Podcast</a></li><li><a href="https://www.youtube.com/watch?v=y3qkf3bajd4">Юрий Безменов: Deception Was My Job</a></li></ul><p><a href="https://itunes.apple.com/podcast/tehnologii-i-zizn/id1013700516?mt=2">наш подкаст в директории подкастов Эппл</a><br>и <a href="https://overcast.fm/itunes1013700516">в Оверкасте</a>]]>
+      </description>
+      <itunes:summary>Сложности с айФонами, путешествия, новый подкаст Василия и неновости http://techlifepodcast.com/episodes/22</itunes:summary>
+      <itunes:subtitle>
+        <![CDATA[<p>Сложности с айФонами, путешествия, новый подкаст Василия и неновости
+</p><p><b>Ссылки к эпизоду:</b></p><ul class="bulleted"><li><a href="http://exponent.fm/episode-106-to-be-an-outlaw/">Бен Томпсон про удаление Убер Апп и критику Эппл</a></li><li><a href="http://www.theverge.com/2017/2/28/14760400/iphone-8-2017-rumors-usb-c-lightning">Слухи про USB-C в следующем айФоне</a></li><li><img src="http://thedimka.com/i/thailand-electrical-outlet-531.png" width="531" height="350" border="0"><br>Электрические розетки в Тайланде подойдут и для американских вилок и для европейских</li><li><a href="https://vimeo.com/36128360">Джонатан Хайдт рассказывает о недопонимании в обществе между консерваторами и либералами</a></li><li><a href="http://www.everydayjourneypodcast.com/">Новый подкаст Василия - Everyday Journey Podcast</a></li><li><a href="https://www.youtube.com/watch?v=y3qkf3bajd4">Юрий Безменов: Deception Was My Job</a></li></ul><p><a href="https://itunes.apple.com/podcast/tehnologii-i-zizn/id1013700516?mt=2">наш подкаст в директории подкастов Эппл</a><br>и <a href="https://overcast.fm/itunes1013700516">в Оверкасте</a>]]>
+      </itunes:subtitle>
+      <itunesu:category itunesu:code="112"/>
+      <enclosure length="63885499" type="audio/mpeg" url="http://techlifepodcast.com/Episodes/313556027-techlifepodcast-episode-22-march-17-2017.mp3"/>
+      <guid>http://techlifepodcast.com/Episodes/313556027-techlifepodcast-episode-22-march-17-2017.mp3</guid>
+      <itunes:duration>H:MM:SS</itunes:duration>
+      <itunes:explicit>clean</itunes:explicit>
+      <pubDate>Fri, 17 Mar 2017 00:05:00 EST</pubDate>
+    </item>
+    <!-- разделитель эпизодов -->
+    <item>
+      <title>#21: Мир дикого запада, Польши и неприбытие инопланетян</title>
+      <description>
+        <![CDATA[<p>Мир дикого запада, Польши и неприбытие инопланетян
+</p><p><b>Ссылки к эпизоду:</b></p><ul class="bulleted"><li><a href="https://techcrunch.com/2016/11/22/googles-ai-translation-tool-seems-to-have-invented-its-own-secret-internal-language/">Искусственный интелект Гугла создаёт свой язык</a></li><li><a href="https://www.kinopoisk.ru/film/195523/">Сериал «Мир Дикого Запада»</a></li><li><a href="https://www.kinopoisk.ru/film/718811/">к/ф Прибытие</a></li><li><a href="http://www.theverge.com/2016/12/6/13853566/samsung-s8-rumor-release-headphone-jack-usb-c">Новый смартфон от Самсунг будет без входа для наушников</a></li></ul><p><a href="https://itunes.apple.com/podcast/tehnologii-i-zizn/id1013700516?mt=2">наш подкаст в директории подкастов Эппл</a>и <a href="https://overcast.fm/itunes1013700516">в Оверкасте</a></p>]]>
+      </description>
+      <itunes:summary>Мир дикого запада, Польши и неприбытие инопланетян http://techlifepodcast.com/episodes/21</itunes:summary>
+      <itunes:subtitle>
+        <![CDATA[<p>Мир дикого запада, Польши и неприбытие инопланетян
+</p><p><b>Ссылки к эпизоду:</b></p><ul class="bulleted"><li><a href="https://techcrunch.com/2016/11/22/googles-ai-translation-tool-seems-to-have-invented-its-own-secret-internal-language/">Искусственный интелект Гугла создаёт свой язык</a></li><li><a href="https://www.kinopoisk.ru/film/195523/">Сериал «Мир Дикого Запада»</a></li><li><a href="https://www.kinopoisk.ru/film/718811/">к/ф Прибытие</a></li><li><a href="http://www.theverge.com/2016/12/6/13853566/samsung-s8-rumor-release-headphone-jack-usb-c">Новый смартфон от Самсунг будет без входа для наушников</a></li></ul><p><a href="https://itunes.apple.com/podcast/tehnologii-i-zizn/id1013700516?mt=2">наш подкаст в директории подкастов Эппл</a>и <a href="https://overcast.fm/itunes1013700516">в Оверкасте</a></p>]]>
+      </itunes:subtitle>
+      <itunesu:category itunesu:code="112"/>
+      <enclosure length="22980000" type="audio/mpeg" url="http://techlifepodcast.com/Episodes/298312917-techlifepodcast-techlife-21-2016-12-14.mp3"/>
+      <guid>http://techlifepodcast.com/Episodes/298312917-techlifepodcast-techlife-21-2016-12-14.mp3</guid>
+      <itunes:duration>H:MM:SS</itunes:duration>
+      <itunes:explicit>clean</itunes:explicit>
+      <pubDate>Wed, 14 December 2016 00:05:00 EST</pubDate>
+    </item>
+    <!-- разделитель эпизодов -->
+  </channel>
 </rss>
