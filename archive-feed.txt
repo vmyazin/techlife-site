@@ -838,9 +838,9 @@
 <!-- разделитель эпизодов -->          
 <item>
 	<title>#3: Ведущие встретились в Калифорнии поговорить об Apple Watch.&#8986;.</title>
-	<description>Болтаем про всякие вещи.</description>
+	<description>Эппл Вотч, с чего всё пошло. Другие умные часы Пэбл, и отстальные андройдные попытки. Футуризм умных часов и тактильная связь.</description>
 	<itunes:summary>Говорим про Apple Watch http://techlifepodcast.com/episodes/3</itunes:summary>
-	<itunes:subtitle>Болтаем про всякие вещи.</itunes:subtitle>
+	<itunes:subtitle>Эппл Вотч, с чего всё пошло. Другие умные часы Пэбл, и отстальные андройдные попытки. Футуризм умных часов и тактильная связь.</itunes:subtitle>
 	<itunesu:category itunesu:code="112" />
 	<enclosure url="http://techlifepodcast.com/Episodes/Techlife-2015-03-29.mp3" type="audio/mpeg" length="70757900" />
 	<guid>http://techlifepodcast.com/Episodes/Techlife-2015-03-29.mp3</guid>
@@ -864,9 +864,9 @@
 <!-- разделитель эпизодов -->          
 <item>
 	<title>#1: Падение Apple или помогут ли гику умные часы найти секс.</title>
-	<description>Болтаем про всякие вещи.</description>
+	<description>Обсуждаем падение качества устройств и софта у Apple, отступление от их же принципов. Также обсуждаем Apple Watch.</description>
 	<itunes:summary>Падение Apple или помогут ли гику умные часы найти секс. http://techlifepodcast.com/episodes/1</itunes:summary>
-	<itunes:subtitle>Болтаем про всякие вещи.</itunes:subtitle>
+	<itunes:subtitle>Обсуждаем падение качества устройств и софта у Apple, отступление от их же принципов. Также обсуждаем Apple Watch.</itunes:subtitle>
 	<itunesu:category itunesu:code="112" />
 	<enclosure url="http://techlifepodcast.com/Episodes/Techlife-2015-03-15.mp3" type="audio/mpeg" length="95429821" />
 	<guid>http://techlifepodcast.com/Episodes/Techlife-2015-03-15.mp3</guid>
