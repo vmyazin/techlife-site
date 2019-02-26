@@ -1,34 +1,48 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
-<channel>
-	<link>http://techlifepodcast.com/</link>
-	<language>ru</language>
-	<copyright>&#xA9;2019</copyright>
-	<webMaster>talk@techlifepodcast.com (Vasily Myazin and Dmitri Zdorov)</webMaster>
-	<managingEditor>talk@techlifepodcast.com (Vasily Myazin and Dmitri Zdorov)</managingEditor>
-	<image>
-		<url>http://techlifepodcast.com/img/techlife-artwork-1400x1400.jpg</url>
-		<title>Технологии и жизнь - подкаст</title>
-		<link>http://techlifepodcast.com/</link>
-	</image>
-	<description>Интернет радио-программа про современные технологии, их влияние на нашу жизнь, и прочие мысли. Ведущие: Дмитрий Здоров и Василий Мязин.</description>
-	<itunes:summary>Интернет радио-программа про современные технологии, их влияние на нашу жизнь, и прочие мысли.</itunes:summary>
-	<itunes:subtitle>Ведущие: Дмитрий Здоров и Василий Мязин.</itunes:subtitle>
-	<itunes:owner>
-		<itunes:name>Vasily Myazin and Dmitri Zdorov</itunes:name>
-		<itunes:email>talk@techlifepodcast.com</itunes:email>
-	</itunes:owner>
-	<itunes:author>Vasily Myazin and Dmitri Zdorov</itunes:author>
-	<itunes:category text="Technology">
-		<itunes:category text="Gadgets" />
-	</itunes:category>
-	<itunes:keywords>technology, podcast, russian, apple, google, travel</itunes:keywords>
-	<itunes:explicit>no</itunes:explicit>
-	<itunes:image href="http://techlifepodcast.com/img/techlife-artwork-1400x1400.jpg" />
-	<atom:link href="http://techlifepodcast.com/podcast-feed.xml" rel="self" type="application/rss+xml" />
-	<lastBuildDate>Wed, 12 Dec 2018 00:05:00 EST</lastBuildDate>
+
         
 <!-- начало эпизодов --> 
+      
+<item>
+	<title>#29: Парная работа</title>
+	<description><![CDATA[
+	<p>О том как мы работали в паре удалённо над новым дизайном сайта данного подкаста</p>
+	<p><b>Ссылки к эпизоду:</b></p>
+	<ul class="bulleted">
+		<li><a href="https://figma.com">figma.com</a></li>
+		<li><a href="https://dropbox.com/paper">dropbox paper</a></li> 
+		<li><a href="https://splice.com">splice.com</a></li>
+		<li><a href="https://ru.wikipedia.org/wiki/Парное_программирование">Парное программирование</a></li>
+	</ul>
+	<p>
+		<a href="https://itunes.apple.com/podcast/tehnologii-i-zizn/id1013700516?mt=2">наш подкаст в директории подкастов Эппл</a>
+		<br>и <a href="https://overcast.fm/itunes1013700516">в Оверкасте</a>
+	</p>
+	]]></description>
+	<itunes:summary>Замки в облаках http://techlifepodcast.com/episodes/28</itunes:summary>
+	<itunes:subtitle><![CDATA[
+	<p>О том как надёжно, зашифрованно, безопасно хранить своди данные в облаках или разных хранилищах файлов.</p>
+	<p><b>Ссылки к эпизоду:</b></p>
+	<ul class="bulleted">
+		<li><a href="https://figma.com">figma.com</a></li>
+		<li><a href="https://dropbox.com/paper">dropbox paper</a></li> 
+		<li><a href="https://splice.com">splice.com</a></li>
+		<li><a href="https://ru.wikipedia.org/wiki/Парное_программирование">Парное программирование</a></li>
+	</ul>
+	<p>
+		<a href="https://itunes.apple.com/podcast/tehnologii-i-zizn/id1013700516?mt=2">наш подкаст в директории подкастов Эппл</a>
+		<br>и <a href="https://overcast.fm/itunes1013700516">в Оверкасте</a>
+	</p>
+	]]></itunes:subtitle>
+	<itunesu:category itunesu:code="112" />
+	<enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/546816954-techlifepodcast-episode-28-zamki-v-oblakakh.mp3" length="36483409"/>
+	<!-- TechLife-29-2019-02-14-PairWork.mp3 --> 
+	<guid>http://feeds.soundcloud.com/stream/546816954-techlifepodcast-episode-28-zamki-v-oblakakh.mp3</guid>
+	<itunes:duration>0:29:24</itunes:duration>
+	<itunes:explicit>clean</itunes:explicit>
+	<pubDate>Thu, 14 Feb 2019 00:05:00 EST</pubDate>
+</item>
+
+<!-- разделитель эпизодов -->        
       
 <item>
 	<title>#28: Замки в облаках</title>
@@ -875,5 +889,4 @@
                 
 <!-- конец эпизодов -->          
 
-</channel>
-</rss>
+
