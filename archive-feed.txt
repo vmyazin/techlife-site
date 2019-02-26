@@ -676,7 +676,7 @@
 <!-- разделитель эпизодов -->          
 <item>
 	<title>#15: Новинки от тех-гигантов</title>
-	<description>Новинки от Microsoft, Google и Apple.</description>
+	<description><p>Новинки от Microsoft, Google и Apple. Какой персональный девайс выбрать путешественнику если хочется иметь легкий багаж?  Нам очевидно нравится разнообразие портов, а компании, особенно Apple, продолжают их убирать. Размышления о будущем нашего подкаста.</p></description>
 	<itunes:summary>Новинки от Microsoft, Google и Apple. http://techlifepodcast.com/episodes/15</itunes:summary>
 	<itunes:subtitle>Новинки от Microsoft, Google и Apple.</itunes:subtitle>
 	<itunesu:category itunesu:code="112" />
@@ -746,7 +746,7 @@
 <!-- разделитель эпизодов -->          
 <item>
 	<title>#10: Скорбь по ушедшим сервисам и продление жизни.</title>
-	<description>Болтаем про всякие вещи.</description>
+	<description><p>Что такое подкаст и понимают ли массы как их слушать? Далее мы обсуждаем основную тему: закрытие полюбившихся нам сайтов, приложений, сервисов. Также вспоминаем мудрость Стива Джобса.</p></description>
 	<itunes:summary>Ушедшие сервисы и продление жизни http://techlifepodcast.com/episodes/10</itunes:summary>
 	<itunes:subtitle>Болтаем про всякие вещи.</itunes:subtitle>
 	<itunesu:category itunesu:code="112" />
@@ -773,7 +773,7 @@
 <!-- разделитель эпизодов -->          
 <item>
 	<title>#8: Про искусственный интеллект в кино.</title>
-	<description>Болтаем про всякие вещи.</description>
+	<description><p>Мы обсуждаем два фильма про искусственный интеллект "Она" ("Her") и "Из машины" ("Ex-Machina"). Будет ли революция A.I. или мы не заметим, как глобальная автоматизация и кибернетический контроль постепенно и незаметно придут в нашу жизнь?</p></description>
 	<itunes:summary>Искусственный интеллект в кино. http://techlifepodcast.com/episodes/8</itunes:summary>
 	<itunes:subtitle>Болтаем про всякие вещи.</itunes:subtitle>
 	<itunesu:category itunesu:code="112" />
