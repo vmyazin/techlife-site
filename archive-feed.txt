@@ -786,9 +786,9 @@
 <!-- разделитель эпизодов -->          
 <item>
 	<title>#7: Диктовка в телефон и реклама в онлайне.</title>
-	<description>Болтаем про всякие вещи.</description>
+	<description>Исправление неожиданных сложностей на маке. Практический хитрости о настройках сетей. Родные/неродные приложения для часов. Управление устройств голосом и тонкости связанные с этим. Байки по взлом по звуку. Как в Европе придумали бороться с рекламой, чтобы заработать. Рекламные хитрости фейсбука</description>
 	<itunes:summary>Диктовка в телефон и реклама в онлайне. http://techlifepodcast.com/episodes/7</itunes:summary>
-	<itunes:subtitle>Болтаем про всякие вещи.</itunes:subtitle>
+	<itunes:subtitle>Исправление неожиданных сложностей на маке. Практический хитрости о настройках сетей. Родные/неродные приложения для часов. Управление устройств голосом и тонкости связанные с этим. Байки по взлом по звуку. Как в Европе придумали бороться с рекламой, чтобы заработать. Рекламные хитрости фейсбука</itunes:subtitle>
 	<itunesu:category itunesu:code="112" />
 	<enclosure url="http://techlifepodcast.com/Episodes/Techlife-2015-05-25.mp3" type="audio/mpeg" length="51813065" />
 	<guid>http://techlifepodcast.com/Episodes/Techlife-2015-05-25.mp3</guid>
@@ -812,16 +812,15 @@
 <!-- разделитель эпизодов -->          
 <item>
 	<title>#5: Про монополию Гугла в рекламе и снова про Apple Watch.</title>
-	<description>Болтаем про всякие вещи.</description>
+	<description>Дима и Вася заказали себе Apple Watch, параллели как работал ранний софт для них и что было с Сири и айфоном в начале. Новый макбук про, с недвижимым тракпадом. Надежда о будущих возможностях вибрирующих поверхностей, монополия гугла в рекламе и наезд на них евросоюза, и о том, что делать с монополиями.</description>
 	<itunes:summary>Монополия Гугла в рекламе и снова про Apple Watch. http://techlifepodcast.com/episodes/5</itunes:summary>
-	<itunes:subtitle>Болтаем про всякие вещи.</itunes:subtitle>
+	<itunes:subtitle>Дима и Вася заказали себе Apple Watch, параллели как работал ранний софт для них и что было с Сири и айфоном в начале. Новый макбук про, с недвижимым тракпадом. Надежда о будущих возможностях вибрирующих поверхностей, монополия гугла в рекламе и наезд на них евросоюза, и о том, что делать с монополиями.</itunes:subtitle>
 	<itunesu:category itunesu:code="112" />
 	<enclosure url="http://techlifepodcast.com/Episodes/Techlife-2015-04-19.mp3" type="audio/mpeg" length="89429390" />
 	<guid>http://techlifepodcast.com/Episodes/Techlife-2015-04-19.mp3</guid>
 	<itunes:duration>1:02:06</itunes:duration>
 	<pubDate>Sun, 19 Apr 2015 17:06:16 EST</pubDate>
 </item>
-                
 <!-- разделитель эпизодов -->          
 <item>
 	<title>#4: Музыкальные стриминг-сервисы, батареи и родные приложения для смартрфонов.</title>
