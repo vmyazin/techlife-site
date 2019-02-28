@@ -23,7 +23,7 @@
 
     <meta content='width=device-width, maximum-scale=1.0, minimum-scale=1.0, initial-scale=1.0' name='viewport'>
 
-    <link href='http://fonts.googleapis.com/css?family=Play&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
+    <link href='//fonts.googleapis.com/css?family=Play&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
 
     <link rel="stylesheet" href="<?php echo $base_url; ?>css/reset.css" media="screen" type='text/css' charset="utf-8">
     <link rel="stylesheet" href="<?php echo $base_url; ?>css/skeleton.css" media="screen" type='text/css' charset="utf-8">

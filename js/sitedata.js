@@ -27,6 +27,6 @@ siteData.episodes = [
   {id: 25, title: 'Разматываем идеологии как наушники', file: 'Episodes/345757588-techlifepodcast-episode-25.mp3', dateLang: '24 сентября 2017'},
   {id: 26, title: 'Рассказы об Азии через Эирподс', file: 'Episodes/367668137-techlifepodcast-26-rasskazy-ob-azii-cherez-eirpods.mp3', dateLang: '5 декабря 2017'},
   {id: 27, title: 'Телефон, Телеграф, Скайпъ', file: 'http://feeds.soundcloud.com/stream/525021030-techlifepodcast-episode-27-november-1-2018.mp3', dateLang: '1 Ноября 2018'},
-  {id: 28, title: 'Замки в облаках', file: 'http://feeds.soundcloud.com/stream/546816954-techlifepodcast-episode-28-zamki-v-oblakakh.mp3', dateLang: '12 Декабря 2018'}
-
+  {id: 28, title: 'Замки в облаках', file: 'http://feeds.soundcloud.com/stream/546816954-techlifepodcast-episode-28-zamki-v-oblakakh.mp3', dateLang: '12 Декабря 2018' },
+  {id: 29, title: 'Парная работа', file: 'http://feeds.soundcloud.com/stream/582657081-techlifepodcast-episode-29-parnaya-rabota.mp3', dateLang: '28 Февраля 2019' }
 ];

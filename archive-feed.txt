@@ -4,8 +4,8 @@
       
 <item>
 	<title>#29: Парная работа</title>
+	<itunes:subtitle>О том как мы работали в паре удалённо над новым дизайном сайта данного подкаста</itunes:subtitle>
 	<description><![CDATA[
-	<p>О том как мы работали в паре удалённо над новым дизайном сайта данного подкаста</p>
 	<p><b>Ссылки к эпизоду:</b></p>
 	<ul class="bulleted">
 		<li><a href="https://figma.com">figma.com</a></li>
@@ -18,28 +18,12 @@
 		<br>и <a href="https://overcast.fm/itunes1013700516">в Оверкасте</a>
 	</p>
 	]]></description>
-	<itunes:summary>Замки в облаках http://techlifepodcast.com/episodes/28</itunes:summary>
-	<itunes:subtitle><![CDATA[
-	<p>О том как надёжно, зашифрованно, безопасно хранить своди данные в облаках или разных хранилищах файлов.</p>
-	<p><b>Ссылки к эпизоду:</b></p>
-	<ul class="bulleted">
-		<li><a href="https://figma.com">figma.com</a></li>
-		<li><a href="https://dropbox.com/paper">dropbox paper</a></li> 
-		<li><a href="https://splice.com">splice.com</a></li>
-		<li><a href="https://ru.wikipedia.org/wiki/Парное_программирование">Парное программирование</a></li>
-	</ul>
-	<p>
-		<a href="https://itunes.apple.com/podcast/tehnologii-i-zizn/id1013700516?mt=2">наш подкаст в директории подкастов Эппл</a>
-		<br>и <a href="https://overcast.fm/itunes1013700516">в Оверкасте</a>
-	</p>
-	]]></itunes:subtitle>
-	<itunesu:category itunesu:code="112" />
-	<enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/546816954-techlifepodcast-episode-28-zamki-v-oblakakh.mp3" length="36483409"/>
+	<enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/TechLife-29-2019-02-14-PairWork.mp3" length="36483409"/>
 	<!-- TechLife-29-2019-02-14-PairWork.mp3 --> 
-	<guid>http://feeds.soundcloud.com/stream/546816954-techlifepodcast-episode-28-zamki-v-oblakakh.mp3</guid>
+	<guid>3ba97e6e-47a9-48aa-9c3b-f1ab23bfafa7</guid>
 	<itunes:duration>0:29:24</itunes:duration>
 	<itunes:explicit>clean</itunes:explicit>
-	<pubDate>Thu, 14 Feb 2019 00:05:00 EST</pubDate>
+	<pubDate>Thu, 28 Feb 2019 00:05:00 EST</pubDate>
 </item>
 
 <!-- разделитель эпизодов -->        
