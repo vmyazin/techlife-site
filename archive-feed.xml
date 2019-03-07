@@ -1,6 +1,6 @@
 <rss version="2.0" 
-        <!-- xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"  -->
         xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">  
+        <!-- xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"  -->
   <channel>
     <title>Технологии и жизнь - подкаст</title>
     <!-- <googleplay:author>Vasily Myazin and Dmitri Zdorov</googleplay:author> -->
